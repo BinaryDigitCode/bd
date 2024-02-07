@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Blowfish</title>
-    <link>https://your_domain.com/authors/</link>
-    <description>Recent content in Authors on Blowfish</description>
+    <title>Authors on BinaryDigit</title>
+    <link>https://binarydigit.cafe/authors/</link>
+    <description>Recent content in Authors on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="https://your_domain.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <atom:link href="https://binarydigit.cafe/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

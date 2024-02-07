@@ -1,21 +1,141 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blowfish</title>
-    <link>https://your_domain.com/</link>
-    <description>Recent content on Blowfish</description>
+    <title>BinaryDigit</title>
+    <link>https://binarydigit.cafe/</link>
+    <description>Recent content on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 18:19:53 +0000</lastBuildDate><atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>finally?</title>
-      <link>https://your_domain.com/blog/drafts/</link>
-      <pubDate>Wed, 07 Feb 2024 18:19:53 +0000</pubDate>
+      <title>Small Web Blogs Compared</title>
+      <link>https://binarydigit.cafe/notes/small-web-blogs/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://your_domain.com/blog/drafts/</guid>
-      <description>WILL IT WORK</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/blog/drafts/feature-binarydigit.png" />
+      <guid>https://binarydigit.cafe/notes/small-web-blogs/</guid>
+      <description>My Week # During the week I was reading the 32bit cafe and Mastodon, and made a list of small web platforms that I wanted to try.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/small-web-blogs/feature-blog-compare.png" />
+    </item>
+    
+    <item>
+      <title>Achievement Unlocked! 🎉</title>
+      <link>https://binarydigit.cafe/notes/loanbegone/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/loanbegone/</guid>
+      <description>The goal I&amp;rsquo;ve had for 20 years is complete!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/loanbegone/feature-unlocked.png" />
+    </item>
+    
+    <item>
+      <title>Goals for February</title>
+      <link>https://binarydigit.cafe/notes/feb2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/feb2024/</guid>
+      <description>For these next upcoming weeks, these are the goals I have in my head:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/feb2024/feature-feb-2024.png" />
+    </item>
+    
+    <item>
+      <title>Goals for January</title>
+      <link>https://binarydigit.cafe/notes/goals2024/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/goals2024/</guid>
+      <description>I can&amp;rsquo;t believe it&amp;rsquo;s 2024!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/goals2024/feature-goals.png" />
+    </item>
+    
+    <item>
+      <title>Twitch Recap 2023</title>
+      <link>https://binarydigit.cafe/notes/twitchrecap2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/twitchrecap2023/</guid>
+      <description>One thing I realize this year is that my streaming game hasn&amp;rsquo;t been strong, which is fine at the moment, but I&amp;rsquo;d like to improve.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/twitchrecap2023/feature-twitch.png" />
+    </item>
+    
+    <item>
+      <title>Not a Blogger</title>
+      <link>https://binarydigit.cafe/notes/notablog/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/notablog/</guid>
+      <description>You know what dawned on me today?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/notablog/feature-notes.png" />
+    </item>
+    
+    <item>
+      <title>A personal photo gallery</title>
+      <link>https://binarydigit.cafe/notes/chevereto/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/chevereto/</guid>
+      <description>I&amp;rsquo;m so happy to get Chevereto installed on a new domain!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/chevereto/feature-gallery.png" />
+    </item>
+    
+    <item>
+      <title>My Website Setup</title>
+      <link>https://binarydigit.cafe/notes/hugo-setup/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/hugo-setup/</guid>
+      <description>Static Site Generators # For ages I resisted static site generators.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/hugo-setup/feature-dino.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome to my Digital Cafe</title>
+      <link>https://binarydigit.cafe/notes/hello/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/hello/</guid>
+      <description>Welcome to my attempt at a new site with Hugo, finally, on my own domain and hosted via netlify/github!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/hello/feature-rainbow.jpg" />
+    </item>
+    
+    <item>
+      <title>About &amp; Contact</title>
+      <link>https://binarydigit.cafe/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/about/</guid>
+      <description>I’m B, a Xennial who grew up when the internet was young, just as I was.</description>
+      
+    </item>
+    
+    <item>
+      <title>Music Mixes</title>
+      <link>https://binarydigit.cafe/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/music/</guid>
+      <description>RSS Feeds # If you&amp;rsquo;re nerdy like me and love to susbscribe to RSS feeds, you can susbscribe to my offline mixes via the various feeds available!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-pastel-squares-freepik.jpg" />
+    </item>
+    
+    <item>
+      <title>Twitch Chat Commands</title>
+      <link>https://binarydigit.cafe/commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/commands/</guid>
+      <description>!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/commands/featured-twitch-background.jpg" />
+    </item>
+    
+    <item>
+      <title>Uses</title>
+      <link>https://binarydigit.cafe/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/uses/</guid>
+      <description>Things I use everyday!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/uses/feature-uses.png" />
     </item>
     
   </channel>

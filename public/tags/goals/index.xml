@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>goals on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/goals/</link>
+    <description>Recent content in goals on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/goals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Achievement Unlocked! 🎉</title>
+      <link>https://binarydigit.cafe/notes/loanbegone/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/loanbegone/</guid>
+      <description>The goal I&amp;rsquo;ve had for 20 years is complete!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/loanbegone/feature-unlocked.png" />
+    </item>
+    
+    <item>
+      <title>Goals for February</title>
+      <link>https://binarydigit.cafe/notes/feb2024/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/feb2024/</guid>
+      <description>For these next upcoming weeks, these are the goals I have in my head:</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/feb2024/feature-feb-2024.png" />
+    </item>
+    
+    <item>
+      <title>Goals for January</title>
+      <link>https://binarydigit.cafe/notes/goals2024/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/goals2024/</guid>
+      <description>I can&amp;rsquo;t believe it&amp;rsquo;s 2024!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/goals2024/feature-goals.png" />
+    </item>
+    
+  </channel>
+</rss>

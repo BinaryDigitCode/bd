@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>small web on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/small-web/</link>
+    <description>Recent content in small web on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/small-web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Web Blogs Compared</title>
+      <link>https://binarydigit.cafe/notes/small-web-blogs/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/small-web-blogs/</guid>
+      <description>My Week # During the week I was reading the 32bit cafe and Mastodon, and made a list of small web platforms that I wanted to try.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/small-web-blogs/feature-blog-compare.png" />
+    </item>
+    
+    <item>
+      <title>Not a Blogger</title>
+      <link>https://binarydigit.cafe/notes/notablog/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/notablog/</guid>
+      <description>You know what dawned on me today?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/notablog/feature-notes.png" />
+    </item>
+    
+    <item>
+      <title>A personal photo gallery</title>
+      <link>https://binarydigit.cafe/notes/chevereto/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/chevereto/</guid>
+      <description>I&amp;rsquo;m so happy to get Chevereto installed on a new domain!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/chevereto/feature-gallery.png" />
+    </item>
+    
+    <item>
+      <title>My Website Setup</title>
+      <link>https://binarydigit.cafe/notes/hugo-setup/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/hugo-setup/</guid>
+      <description>Static Site Generators # For ages I resisted static site generators.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/hugo-setup/feature-dino.jpg" />
+    </item>
+    
+    <item>
+      <title>Welcome to my Digital Cafe</title>
+      <link>https://binarydigit.cafe/notes/hello/</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/hello/</guid>
+      <description>Welcome to my attempt at a new site with Hugo, finally, on my own domain and hosted via netlify/github!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/hello/feature-rainbow.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,12 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Blowfish</title>
-    <link>https://your_domain.com/tags/</link>
-    <description>Recent content in Tags on Blowfish</description>
+    <title>Tags on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/</link>
+    <description>Recent content in Tags on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="https://your_domain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>small web</title>
+      <link>https://binarydigit.cafe/tags/small-web/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/small-web/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>goals</title>
+      <link>https://binarydigit.cafe/tags/goals/</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/goals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://binarydigit.cafe/tags/health/</link>
+      <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/health/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>livestream</title>
+      <link>https://binarydigit.cafe/tags/livestream/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/livestream/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>cafe</title>
+      <link>https://binarydigit.cafe/tags/cafe/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/cafe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>photos</title>
+      <link>https://binarydigit.cafe/tags/photos/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/photos/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
