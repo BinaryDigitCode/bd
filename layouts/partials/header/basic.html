@@ -1,16 +1,42 @@
+<script defer type="module" src="https://unpkg.com/@zachleat/snow-fall@1.0.1/snow-fall.js"></script>
+<script type="module" defer>
+const snow = document.createElement('snow-fall');
+document.body.prepend(snow)
+</script>
+
+<script src="https://kit.fontawesome.com/427b20d5d3.js" crossorigin="anonymous"></script>
+
+<link rel="indieauth-metadata" href="https://binarydigit.cafe/indieauth/metadata">
+<link rel="stylesheet" type="text/css" href="css/custom.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.cache.lol/profiles/icons/omg.lol-icons.css?v=2">
+
+<link rel="webmention" href="https://webmention.io/binarydigit.cafe/webmention" />
+<link rel="pingback" href="https://webmention.io/binarydigit.cafe/xmlrpc" />
+<script src="/js/webmention.js" async></script>
+
+<link href="https://binarydigit.cafe" rel="me">
+
 <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
     {{ if .Site.Params.Logo }}
     {{ $logo := resources.Get .Site.Params.Logo }}
     {{ if $logo }}
     <div>
-        <a href="{{ "" | relLangURL }}" class="flex">
-            <span class="sr-only">{{ .Site.Title | markdownify | emojify }}</span>
 
-            <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" />
+        <!-- Added IndieAuth h-entry/card etc -->
+        <div class="h-entry">
+            <div class="u-author h-card">    
+                <a rel="me" href="{{ "" | relLangURL }}" class="u-url p-name flex">
+                <a class="u-url" href="acct:binarydigit@binarydigit.cafe"></a>
+                <span class="sr-only">{{ .Site.Title | markdownify | emojify }}</span>
 
-        </a>
+                <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
+                    class="u-photo logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" />
+                </a>
+            </div>
+        </div>
+
+
     </div>
     {{ end }}
     {{- end }}

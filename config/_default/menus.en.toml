@@ -10,10 +10,47 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Blog"
-#  pageRef = "posts"
-#  weight = 10
+[[main]]
+  name = "Notes"
+  pre = "pencil"
+  pageRef = "/notes"
+  weight = 10
+
+[[main]]
+  name = "Music"
+  pre = "music"
+  pageRef = "/music"
+  weight = 60
+
+[[main]]
+  name = "Projects"
+  pre = "lightbulb"
+  pageRef = "/projects"
+  weight = 70
+
+[[main]]
+  name = "About"
+  pre = "circle-info"
+  pageRef = "/about"
+  weight = 80
+
+[[main]]
+ name = ""
+ pre = "rss"
+url = "https://binarydigit.cafe/index.xml"
+ weight = 90
+
+[[subnavigation]]
+ name = "Categories"
+ pre = "bars"
+ pageRef = "categories"
+ weight = 10
+
+ [[subnavigation]]
+ name = "Tags"
+ pre = "tag"
+ pageRef = "tags"
+ weight = 20
 
 #[[main]]
 #  name = "Parent"
@@ -52,18 +89,16 @@
 #  pageRef = "tags"
 #  weight = 30
 
-
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 10
 
 # [[footer]]
 #   name = "Tags"
 #   pageRef = "tags"
-#   weight = 10
-
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
 #   weight = 20

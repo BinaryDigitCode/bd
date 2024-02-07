@@ -29,7 +29,7 @@
       {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
       {{ . | emojify | markdownify }}
       {{- else }}
-      &copy;
+      <!-- &copy; -->
       {{ now.Format "2006" }}
       {{ .Site.Author.name | markdownify | emojify }}
       {{- end }}
@@ -37,6 +37,15 @@
     {{ end }}
 
     {{/* Theme attribution */}}
+     <!-- Webrings -->
+      <p class="text-sm text-neutral-500 dark:text-neutral-400">
+        <i class="omg-icon omg-sarajoy"></i> CS Joy 
+        <a href="https://webri.ng/webring/cssjoy/previous?via=https://binarydigit.cafe/"><i class="fa-regular fa-circle-left"></i>  </a>
+        <a href="https://webri.ng/webring/cssjoy/random?via=https://binarydigit.cafe/"><i class="fa-solid fa-shuffle"></i></a>
+        <a href="https://webri.ng/webring/cssjoy/next?via=https://binarydigit.cafe/">  <i class="fa-regular fa-circle-right"></i></a> 
+      </p>
+      <!-- Webrings -->
+
     {{ if .Site.Params.footer.showThemeAttribution | default true }}
     <p class="text-xs text-neutral-500 dark:text-neutral-400">
       {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
@@ -65,4 +74,9 @@
   {{ if templates.Exists "partials/extend-footer.html" }}
   {{ partialCached "extend-footer.html" . }}
   {{ end }}
+
+<a rel="me" href="https://social.lol/@binarydigit"></a>
+<a rel="me" href="https://mstdn.games/@BinaryDigit"></a>
+<a rel="me" href="https://binarydigit.cafe"></a>
+
 </footer>
