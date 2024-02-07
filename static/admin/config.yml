@@ -3,13 +3,13 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 # These lines should *not* be indented
 # media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-media_folder: "content/blog/drafts" # Media files will be stored in the repo under static/images/uploads
+media_folder: "content/blog/{{title}}" # Media files will be stored in the repo under static/images/uploads
 path: "{{slug}}"
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
-    folder: "content/blog/drafts" # The path to the folder where the documents are stored
+    folder: "content/blog/{{title}}" # The path to the folder where the documents are stored
     path: "{{slug}}"
     create: true # Allow users to create new documents in this collection
     slug: "index" # Filename template, e.g., YYYY-MM-DD-title.md
