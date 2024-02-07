@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+{{ .Scratch.Set "scope" "list" }}
+{{ if .Site.Params.list.showHero | default false }}
+{{ $heroStyle := print "partials/hero/" .Site.Params.list.heroStyle ".html" }}
+{{ if templates.Exists $heroStyle }}
+{{ partial $heroStyle . }}
+{{ else }}
+{{ partial "partials/hero/basic.html" . }}
+{{ end }}
+{{- end -}}
+
+
+  <main>
+    <article>
+      <header>
+  {{ $jsPage := resources.Get "js/page.js" }}
+  {{ $jsPage = $jsPage | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
+
+        <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+      </header>
+
+      <div class="mt-1 mb-2 text-base text-neutral-500 dark:text-neutral-400">
+      </div>
+
+      
+      <!-- "{{ .Content }}" pulls from the markdown content of the corresponding _index.md -->
+      <div class="min-w-0 min-h-0 max-w-prose">
+        {{ .Content | emojify }}
+      </div>
+    
+    </article>
+
+
+    <ul>
+      <!-- Ranges through content/posts/*.md -->      
+      {{ range .Pages }}
+
+        <li>
+          <a href="{{ .RelPermalink }}"> {{ .LinkTitle }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
+{{ end }}

@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Blowfish</title>
-    <link>https://your_domain.com/blog/</link>
-    <description>Recent content in Blogs on Blowfish</description>
+    <title>Micro Blog on BinaryDigit</title>
+    <link>https://binarydigit.cafe/blog/</link>
+    <description>Recent content in Micro Blog on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 18:19:53 +0000</lastBuildDate><atom:link href="https://your_domain.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Wed, 07 Feb 2024 20:10:49 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>finally?</title>
-      <link>https://your_domain.com/blog/drafts/</link>
-      <pubDate>Wed, 07 Feb 2024 18:19:53 +0000</pubDate>
+      <title>Test</title>
+      <link>https://binarydigit.cafe/blog/test/</link>
+      <pubDate>Wed, 07 Feb 2024 20:10:49 +0000</pubDate>
       
-      <guid>https://your_domain.com/blog/drafts/</guid>
-      <description>WILL IT WORK</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/blog/drafts/feature-binarydigit.png" />
+      <guid>https://binarydigit.cafe/blog/test/</guid>
+      <description>single blog post</description>
+      
+    </item>
+    
+    <item>
+      <title>This is a post for a blog seciton</title>
+      <link>https://binarydigit.cafe/blog/this-is-a-post-for-a-blog-seciton/</link>
+      <pubDate>Wed, 07 Feb 2024 20:03:27 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/blog/this-is-a-post-for-a-blog-seciton/</guid>
+      <description>This is a blog in a new section!</description>
+      
     </item>
     
   </channel>
