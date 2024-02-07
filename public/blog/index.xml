@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 16:24:01 +0000</lastBuildDate><atom:link href="https://your_domain.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Feb 2024 16:45:36 +0000</lastBuildDate><atom:link href="https://your_domain.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>https://your_domain.com/blog/test-post/</link>
-      <pubDate>Wed, 07 Feb 2024 16:24:01 +0000</pubDate>
+      <title>Test Post with Media</title>
+      <link>https://your_domain.com/blog/test-post-with-media/</link>
+      <pubDate>Wed, 07 Feb 2024 16:45:36 +0000</pubDate>
       
-      <guid>https://your_domain.com/blog/test-post/</guid>
-      <description>test post</description>
+      <guid>https://your_domain.com/blog/test-post-with-media/</guid>
+      <description>Test post!</description>
       
     </item>
     
