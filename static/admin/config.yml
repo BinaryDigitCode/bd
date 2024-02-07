@@ -8,7 +8,6 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
-    label_singular: "Blog Post" # Used in the UI
     folder: "content/blog/drafts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "index" # Filename template, e.g., YYYY-MM-DD-title.md
