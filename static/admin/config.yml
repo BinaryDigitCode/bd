@@ -7,7 +7,8 @@ media_folder: "content/blog/drafts" # Media files will be stored in the repo und
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Blog Posts" # Used in the UI
+    label: "Blog" # Used in the UI
+    label_singular: "Blog Post" # Used in the UI
     folder: "content/blog/drafts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "index" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -20,6 +21,5 @@ collections:
       - { label: 'Tags', name: 'tags', widget: 'string' }
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", required: false }
       - {label: "Body", name: "body", widget: "markdown"}
-publish_mode: editorial_workflow
