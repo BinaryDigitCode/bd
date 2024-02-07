@@ -2,11 +2,6 @@
 title: "My Current Projects"
 description: BinaryDigit's current web projects
 ---
-
-### A Wordpress "Mini" Blog
-
-It has all the feature that I need for posting, Unsplash integration, webmentions, native comments, and RSS. I haven't found a replacement yet so here we are! I like to call it [B's coffee corner](https://binarydigit.coffee).
-
 ### A Personal Photo Gallery
 
 I've set up a photo gallery for snapshots using [Chevereto](https://chevereto.com) over at [binarydigit.photos](https://binarydigit.photos). This is for personal photos and galleries, not a porfolio site.
@@ -17,7 +12,7 @@ I livestream music mixes and gameplay on [Twitch](https://www.twitch.tv/binarydi
 
 ### This Personal Website
 
-I’ve set up this fun website with [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) theme which is incredibly customizable and has so many features. This is my digital garden where I'll write notes and thoughts not on my blog.
+I’ve set up this fun website with [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) theme which is incredibly customizable and has so many features. This is my digital garden where I'll write notes and thoughts.
 
 ### My Professonal Website
 

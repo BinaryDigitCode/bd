@@ -4,25 +4,7 @@
 
   <url>
     <loc>https://binarydigit.cafe/</loc>
-    <lastmod>2024-02-07T20:10:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/blog/</loc>
-    <lastmod>2024-02-07T20:10:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/blog/test/</loc>
-    <lastmod>2024-02-07T20:10:49+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/blog/this-is-a-post-for-a-blog-seciton/</loc>
-    <lastmod>2024-02-07T20:03:27+00:00</lastmod>
+    <lastmod>2024-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,7 +34,7 @@
   </url>
   <url>
     <loc>https://binarydigit.cafe/projects/</loc>
-    <lastmod>2024-01-29T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
