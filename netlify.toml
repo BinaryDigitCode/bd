@@ -14,7 +14,3 @@
   from = "/discord"
   to = "https://discord.gg/KjVdUgz4wb"
   status = 301
-[[redirects]]
-  from = "blog.binarydigit.cafe"
-  to = "/notes"
-  status = 301
