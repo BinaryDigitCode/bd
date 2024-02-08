@@ -5,26 +5,20 @@ date: 2024-01-01
 categories: ["Recipes"]
 tags: ["dessert"]
 showauthor: false
+showhero: false
 ---
 
 ## Ingredients
 
 - ~1/2 cup sugar to caramelize
-
 - 1 can condensed milk
-
 - 1 can evaporated milk
-
 - 6 eggs
-
 - 1 teaspoon pure vanilla extract
-
 - 1 cup milk
-
 - pinch of salt
-
 - add to blender
-- 
+
 ## Steps
 
 1. Heat sugar in small pan on medium-high heat with 1/2 teaspoon of water. Stir occasionally until sugar melts and is a golden color. Remove from heat as it will still be melting.
