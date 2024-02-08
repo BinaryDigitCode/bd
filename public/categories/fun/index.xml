@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fun on BinaryDigit</title>
+    <link>https://binarydigit.cafe/categories/fun/</link>
+    <description>Recent content in Fun on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/fun/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Defaults</title>
+      <link>https://binarydigit.cafe/notes/app-defaults/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/app-defaults/</guid>
+      <description>I finally caught up with the infamous Hemispheric Views episode &amp;ldquo;Duel of the Defaults!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
