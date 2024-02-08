@@ -15,7 +15,37 @@
       
       <guid>https://binarydigit.cafe/notes/app-defaults/</guid>
       <description>I finally caught up with the infamous Hemispheric Views episode &amp;ldquo;Duel of the Defaults!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/app-defaults/feature-dmitry-chernyshov-mP7aPSUm7aE-unsplash.jpg" />
+    </item>
+    
+    <item>
+      <title>Micro Blog1</title>
+      <link>https://binarydigit.cafe/blog/test1/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
+      <guid>https://binarydigit.cafe/blog/test1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Micro Blog2</title>
+      <link>https://binarydigit.cafe/blog/test2/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/blog/test2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Joy of Old Tech Shows</title>
+      <link>https://binarydigit.cafe/notes/the-joy-of-old-tech-shows/</link>
+      <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/the-joy-of-old-tech-shows/</guid>
+      <description>I love waking up in the mornings, making a cup of coffee, and seeing what Twitch streams are online.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/the-joy-of-old-tech-shows/feature-techtv.png" />
     </item>
     
     <item>
@@ -136,16 +166,6 @@
       <guid>https://binarydigit.cafe/commands/</guid>
       <description>!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/commands/featured-twitch-background.jpg" />
-    </item>
-    
-    <item>
-      <title>Uses</title>
-      <link>https://binarydigit.cafe/uses/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/uses/</guid>
-      <description>Things I use everyday!</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/uses/feature-uses.png" />
     </item>
     
   </channel>

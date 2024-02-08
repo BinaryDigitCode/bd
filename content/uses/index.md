@@ -1,6 +1,6 @@
 ---
-title: Uses
-description: What B uses everyday.
+title: "What I Use Everyday"
+draft: true
 ---
 
 Things I use everyday! _A work in progress..._

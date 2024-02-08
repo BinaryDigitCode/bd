@@ -7,24 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
-    <lastBuildDate>Wed, 07 Feb 2024 20:10:49 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://binarydigit.cafe/blog/test/</link>
-      <pubDate>Wed, 07 Feb 2024 20:10:49 +0000</pubDate>
+      <title>Micro Blog1</title>
+      <link>https://binarydigit.cafe/blog/test1/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://binarydigit.cafe/blog/test/</guid>
-      <description>single blog post</description>
+      <guid>https://binarydigit.cafe/blog/test1/</guid>
+      <description></description>
       
     </item>
     
     <item>
-      <title>This is a post for a blog seciton</title>
-      <link>https://binarydigit.cafe/blog/this-is-a-post-for-a-blog-seciton/</link>
-      <pubDate>Wed, 07 Feb 2024 20:03:27 +0000</pubDate>
+      <title>Micro Blog2</title>
+      <link>https://binarydigit.cafe/blog/test2/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://binarydigit.cafe/blog/this-is-a-post-for-a-blog-seciton/</guid>
-      <description>This is a blog in a new section!</description>
+      <guid>https://binarydigit.cafe/blog/test2/</guid>
+      <description></description>
       
     </item>
     
