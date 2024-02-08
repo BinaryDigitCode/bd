@@ -84,7 +84,7 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
@@ -95,8 +95,8 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
 
 [taxonomy]
   showTermCount = false
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
@@ -104,8 +104,8 @@ defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for fe
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
