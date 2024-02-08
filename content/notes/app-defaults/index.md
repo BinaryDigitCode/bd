@@ -2,8 +2,8 @@
 title: 'App Defaults'
 date: 2024-02-08
 tags: ["fun", "defaults"]
-showauthor: false
-draft: true
+showauthor: true
+draft: false
 ---
 I finally caught up with the infamous Hemispheric Views episode "Duel of the Defaults!". 
 
@@ -12,51 +12,51 @@ I finally caught up with the infamous Hemispheric Views episode "Duel of the Def
 I love the humor and comradery of everyone on the show. I even saw Robb Knight create an amazing page dedicated to everyone's [app defaults](https://defaults.rknight.me/). So here's my list across Mac and PC!
 
 
-✉️ Mail Client: Mail.app / Fastmail
+✉️ Mail Client: Mail.app / Fastmail.com
 
 📨 Mail Server: iCloud/Fastmail
 
-📝 Notes: Notes.app
+📝 Notes: Obsidian
 
-✅ To-Do: Pen & pad
+✅ To-Do: Reminders.app
 
 📷 iPhone Photo Shooting: Camera.app
 
-📚 Photo Management: Photos.app / Synology Photos
+📚 Photo Management: Photos.app 
 
-🗓️ Calendar: Calendar.app
+🗓️ Calendar: Calendar.app with Fastmail
 
-🗄️ Cloud file storage: iCloud Drive / Synology Drive
+🗄️ Cloud file storage: iCloud / Mega
 
-📰 RSS: FreshRSS / Fluent Reader / News Flash
+📰 RSS: NetNewsWire w/ Inoreader sync
 
-📇 Contacts: Contacts.app
+📇 Contacts: Contacts.app / Fastmail backup
 
-🕸️ Browser: Firefox
+🕸️ Browser: Floorp (Firefox fork)
 
-💬 Chat: iMessage / Signal / Discord
+💬 Chat: iMessage / Discord
 
-🔖 Bookmarks: Metadata Library to Bookmarks
+🔖 Bookmarks: Floorp/Firefox sync
 
-👓 Read It Later: Pocket
+👓 Read It Later: Omnivore.app
 
-📜 Word Processing: iA Writter / Typora
+📜 Word Processing: Google Docs
 
-📊 Spreadsheets: Synology Drive
+📊 Spreadsheets: Google Sheets
 
-🛝 Presentations: N/a
+🛝 Presentations: N/A
 
-🛒 Shopping Lists: Pen & pad
+🛒 Shopping Lists: Reminders.app
 
-🧑‍🍳 Meal Planning: Pen & pad
+🧑‍🍳 Meal Planning: N/A
 
-💰 Budgeting & Personal Finance: N/a
+💰 Budgeting & Personal Finance: N/A
 
-🗞️ News: The Spinoff
+🗞️ News: TV/Reddit/Podcasts
 
-🎶 Music: PlexAmp
+🎶 Music: Spotify / SoundCloud / VirtualDJ
 
-🎧 Podcasts: Podcasts.app
+🎧 Podcasts: Pocketcasts
 
 🔐 Password Management: 1Password
 
