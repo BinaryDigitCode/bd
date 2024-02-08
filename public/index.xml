@@ -19,23 +19,13 @@
     </item>
     
     <item>
-      <title>Micro Blog1</title>
-      <link>https://binarydigit.cafe/blog/test1/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <title>Gitea for the Cafe</title>
+      <link>https://binarydigit.cafe/notes/gitea-cafe/</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://binarydigit.cafe/blog/test1/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Micro Blog2</title>
-      <link>https://binarydigit.cafe/blog/test2/</link>
-      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/blog/test2/</guid>
-      <description></description>
-      
+      <guid>https://binarydigit.cafe/notes/gitea-cafe/</guid>
+      <description>I saw the news that the co-founder of Github was banned via Hacker News - tweet here.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/gitea-cafe/feature-gitea.png" />
     </item>
     
     <item>
@@ -86,6 +76,16 @@
       <guid>https://binarydigit.cafe/notes/goals2024/</guid>
       <description>I can&amp;rsquo;t believe it&amp;rsquo;s 2024!</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/goals2024/feature-goals.png" />
+    </item>
+    
+    <item>
+      <title>My Aunt&#39;s Flan</title>
+      <link>https://binarydigit.cafe/recipes/flan/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/recipes/flan/</guid>
+      <description>Ingredients # ~1/2 cup sugar to caramelize</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/recipes/flan/feature-vecteezy_delicious-flan.jpg" />
     </item>
     
     <item>

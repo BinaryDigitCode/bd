@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dessert on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/dessert/</link>
+    <description>Recent content in dessert on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/dessert/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Aunt&#39;s Flan</title>
+      <link>https://binarydigit.cafe/recipes/flan/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/recipes/flan/</guid>
+      <description>Ingredients # ~1/2 cup sugar to caramelize</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/recipes/flan/feature-vecteezy_delicious-flan.jpg" />
+    </item>
+    
+  </channel>
+</rss>
