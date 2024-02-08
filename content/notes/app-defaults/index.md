@@ -9,7 +9,7 @@ I finally caught up with the infamous Hemispheric Views episode "Duel of the Def
 
 <iframe src="https://player.fireside.fm/v2/6MInpziV+pRrVuoJB?theme=dark" width="740" height="200" frameborder="0" scrolling="no"></iframe>
 
-I love the humor and comradery of everyone on the show. I even saw Robb Knight create an amazing page dedicated to everyone's [app defaults](https://defaults.rknight.me/). So here's my list across Mac and PC!
+I love the humor and comradery of everyone on the show. I even saw Robb Knight create an amazing page dedicated to everyone's [app defaults](https://defaults.rknight.me/). So here's my list across Mac and PC for current day (Feb 2024). 😀
 
 
 ✉️ Mail Client: Mail.app / Fastmail.com
