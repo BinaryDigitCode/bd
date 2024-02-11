@@ -21,7 +21,7 @@ defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for 
 defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for featured images in all articles
 
 #highlightCurrentMenuArea = true
-#smartTOC = true
+smartTOC = true
 #smartTOCHideUnfocusedChildren = true
 
 [header]

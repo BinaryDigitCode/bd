@@ -87,6 +87,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://binarydigit.cafe/music/videomixes2023/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://binarydigit.cafe/music/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://binarydigit.cafe/music/audiomixes2023/</loc>
+    <lastmod>2023-12-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://binarydigit.cafe/notes/twitchrecap2023/</loc>
     <lastmod>2023-12-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -118,11 +136,6 @@
   </url>
   <url>
     <loc>https://binarydigit.cafe/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/music/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
