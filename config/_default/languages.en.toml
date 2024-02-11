@@ -20,12 +20,13 @@ title = "BinaryDigit"
    bio = "B's digital cafe of hobbies, projects and notes"
    links = [
       { envelope = "mailto:hi[at]binarydigit.cafe" },
+      { twitch = "https://www.twitch.tv/BinaryDigit/" },
+      { youtube = "https://youtube.com/@BinaryDigit/" },
+      { music = "https://hearthis.at/binarydigitdj/" },
+      { peertube = "https://makertube.net/a/binarydigit/"},  
       { mastodon = "https://social.lol/@BinaryDigit/" },
       { image = "https://glass.photo/binarydigit" },
       { github = "https://github.com/BinaryPixels/" },  
-      { twitch = "https://www.twitch.tv/BinaryDigit/" },
-      { youtube = "https://youtube.com/@BinaryDigit/" },
-      { peertube = "https://makertube.net/a/binarydigit/"},  
       { prami = "https://links.binarydigit.cafe/" },     
       { ko-fi = "https://ko-fi.com/binarydigit/" },
    ]

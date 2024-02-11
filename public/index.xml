@@ -99,26 +99,6 @@
     </item>
     
     <item>
-      <title>DJ Video Uploads in 2023</title>
-      <link>https://binarydigit.cafe/music/videomixes2023/</link>
-      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/music/videomixes2023/</guid>
-      <description>Video Mixes # I upload some offline sets to YouTube and sync them to MakerTube.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/videomixes2023/feature-video.png" />
-    </item>
-    
-    <item>
-      <title>DJ Audio Uploads in 2023</title>
-      <link>https://binarydigit.cafe/music/audiomixes2023/</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/music/audiomixes2023/</guid>
-      <description>Audio Mixes # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/audiomixes2023/feature-audio.png" />
-    </item>
-    
-    <item>
       <title>Twitch Recap 2023</title>
       <link>https://binarydigit.cafe/notes/twitchrecap2023/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
@@ -176,6 +156,16 @@
       <guid>https://binarydigit.cafe/about/</guid>
       <description>I’m B, a Xennial who grew up when the internet was young, just as I was.</description>
       
+    </item>
+    
+    <item>
+      <title>Music Mixes</title>
+      <link>https://binarydigit.cafe/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/music/</guid>
+      <description>Follow this page via RSS # Subscribe to my offline music channels directly # RSS 2.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-pastel-squares-freepik.jpg" />
     </item>
     
     <item>
