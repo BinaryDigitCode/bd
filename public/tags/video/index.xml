@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>video on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/video/</link>
+    <description>Recent content in video on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DJ Video Uploads in 2023</title>
+      <link>https://binarydigit.cafe/music/videomixes2023/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/music/videomixes2023/</guid>
+      <description>Video Mixes # I upload some offline sets to YouTube and sync them to MakerTube.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/videomixes2023/feature-video.png" />
+    </item>
+    
+  </channel>
+</rss>
