@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
-    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>small web</title>
+      <link>https://binarydigit.cafe/tags/small-web/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/tags/small-web/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>defaults</title>
       <link>https://binarydigit.cafe/tags/defaults/</link>
@@ -44,16 +54,6 @@
       <pubDate>Sun, 04 Feb 2024 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/tags/nostalgia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>small web</title>
-      <link>https://binarydigit.cafe/tags/small-web/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/tags/small-web/</guid>
       <description></description>
       
     </item>
