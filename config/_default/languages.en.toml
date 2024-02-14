@@ -8,14 +8,14 @@ title = "BinaryDigit"
   isoCode = "en"
   rtl = false
   dateFormat = "Jan 2 2006"
-  logo = "img/CoffeeCroissantByFreepik.png"
-  secondaryLogo = "img/CoffeeCroissantByFreepik.png"
+  logo = "img/arcade.png"
+  secondaryLogo = "img/cafe.png"
   description = "BinaryDigit's Digital Cafe"
   copyright = 'Current Status: <script src="https://status.lol/binarydigit.js?time&link&no-emoji"></script>'
 
  [author]
    name = "BinaryDigit"
-   image = "img/AvatarByAndyCarolan2.png"
+   image = "img/AvatarByAndyCarolan3.png"
    headline = "A digital cafe of hobbies, projects and notes"
    bio = "B's digital cafe of hobbies, projects and notes"
    links = [
