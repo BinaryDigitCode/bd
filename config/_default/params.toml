@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "marvel"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -36,7 +36,7 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, customs"
-  homepageImage = "img/vecteezy_memphis-style-background-abstract.jpg" # used in: hero, and card
+  homepageImage = "img/vecteezy_abstract-geometric-pattern.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
@@ -58,7 +58,7 @@ smartTOC = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/BinaryPixels/binarydigitcafe/blob/main/content/"
+  editURL = "https://github.com/BinaryPixels/bd/blob/main/content/"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
