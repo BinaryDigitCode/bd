@@ -17,12 +17,6 @@
   weight = 10
 
 [[main]]
-  name = "Twitch"
-  pre = "twitch"
-  pageRef = "/twitch"
-  weight = 50
-
-[[main]]
   name = "Music"
   pre = "music"
   pageRef = "/music"

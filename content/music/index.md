@@ -2,6 +2,7 @@
 title: "Music Mixes"
 description: BinaryDigit's Music Mix Uploads"
 ---
+I love to stream DJ mixes on Twitch, and sometimes record sets offline - follow me below!
 
 ## RSS Feeds
 
@@ -9,7 +10,7 @@ description: BinaryDigit's Music Mix Uploads"
 
 ## Audio Mixes
 
-I'm uploading audio mixes to [HearThis.at](https://hearthis.at/binarydigitdj/) to try it out for a bit
+I'm uploading audio mixes to [HearThis.at](https://hearthis.at/binarydigitdj/) to try it out for a bit!
 
 <iframe scrolling="no" id="hearthis_at_track_10593707" width="100%" height="150" src="https://app.hearthis.at/embed/10593707/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=1&background=1&waveform=0&cover=0&autoplay=0&css=" frameborder="0" allowtransparency allow="autoplay"><p>Listen to <a href="https://hearthis.at/binarydigitdj/house-vgr-edm-11-02-2023/" target="_blank">House VGR EDM</a> <span>by</span><a href="https://hearthis.at/binarydigitdj/" target="_blank" >BinaryDigit</a> <span>on</span> <a href="https://hearthis.at/" target="_blank">hearthis.at</a></p></iframe>
 
