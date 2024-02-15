@@ -27,9 +27,9 @@ async function rss2html(url, max) {
 			link:
 				item.querySelector("link")?.textContent ||
 				item.querySelector("link")?.getAttribute("href"),
-			description: item.querySelector("description")?.textContent.length > 100
-			? strip(item.querySelector("description").textContent).substring(0,100)+"..."
-			: item.querySelector("description")?.textContent,
+			content: item.querySelector("content")?.textContent.length > 100
+			? strip(item.querySelector("content").textContent).substring(0,100)+"..."
+			: item.querySelector("content")?.textContent,
 		}));
 	return/*html*/ `<article style="--hue: ${Math.random() * 360}">
 		<h2 class="feed-title">
@@ -44,8 +44,8 @@ async function rss2html(url, max) {
 				<h3 class="feed-item-title">
 					<a href="${item.link}" target="_blank">${item.title}</a>
 				</h3>
-				${item.description 
-					? `<div class="feed-item-desc">${item.description}</div>`
+				${item.content 
+					? `<div class="feed-item-desc">${item.content}</div>`
 					: ""
 				}
 			`

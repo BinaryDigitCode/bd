@@ -69,16 +69,6 @@
     </item>
     
     <item>
-      <title>January Twitch Clips</title>
-      <link>https://binarydigit.cafe/twitch/jan2024/</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://binarydigit.cafe/twitch/jan2024/</guid>
-      <description>RJ asks to mod for me # binarydigit</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/twitch/jan2024/feature-jan.png" />
-    </item>
-    
-    <item>
       <title>Goals for January</title>
       <link>https://binarydigit.cafe/notes/goals2024/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -166,6 +156,16 @@
       <guid>https://binarydigit.cafe/music/</guid>
       <description>RSS Feeds # HearThis feed | YouTube feed | MakerTube feed Audio Mixes # I&amp;rsquo;m uploading audio mixes to HearThis.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/music/feature-pastel-squares-freepik.jpg" />
+    </item>
+    
+    <item>
+      <title>RSS 2 HTML Test</title>
+      <link>https://binarydigit.cafe/rsstest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/rsstest/</guid>
+      <description> </description>
+      
     </item>
     
     <item>
