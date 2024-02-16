@@ -1,1 +1,1 @@
-I’m B 👋🏽 I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me, send me an <a href="mailto:hi@binarydigit.cafe" rel="me">email</a>, or click on  my [links](https://links.binarydigit.cafe/) above!
+I’m B 👋🏽 I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me or click on  my [links](https://links.binarydigit.cafe/) above!
