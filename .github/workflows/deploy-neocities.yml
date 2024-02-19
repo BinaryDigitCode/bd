@@ -1,0 +1,29 @@
+# https://localghost.dev/blog/how-i-deploy-my-eleventy-site-to-neocities/
+name: "Deploy to Neocities"
+on:
+  push:
+    branches:
+      - main # run this job when I push to main
+
+concurrency: # prevent concurrent deploys doing strange things
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: "Deploy to Neocities"
+    runs-on: ubuntu-latest # the system the runner uses
+    steps:
+      - uses: actions/checkout@v4 # checkout the repo
+      - uses: actions/setup-node@v3 # install node.js
+        with:
+          node-version: "18"
+          cache: "npm" # I'm using yarn rather than npm
+      - run: hugo # build my project
+        env: # the env vars I need to build my site
+          WEBMENTION_IO_TOKEN: $ 
+      - uses: bcomnes/deploy-to-neocities@v1 # deploy!
+        with: # config for the action
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: "public" # my build output directory
+          cleanup: true # delete anything on neocities that's not in my dist_dir
