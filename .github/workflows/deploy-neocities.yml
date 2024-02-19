@@ -1,10 +1,8 @@
-name: Deploy to neocities
-
-# only run on changes to master
+name: "Deploy to Neocities"
 on:
   push:
     branches:
-      - main
+      - main # run this job when I push to main
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
@@ -12,21 +10,16 @@ concurrency: # prevent concurrent deploys doing strange things
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-
+    name: "Deploy to Neocities"
+    runs-on: ubuntu-latest # the system the runner uses
     steps:
-    - uses: actions/checkout@v3
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
-    - name: Use Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: lts/*
-    - name: Install deps and build
-    - run: hugo # build my project
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v1
-      with:
-        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: true
-        dist_dir: public
+      - uses: actions/checkout@v4 # checkout the repo
+        with:
+          node-version: "20"
+          cache: "npm" # I'm using yarn rather than npm
+      - run: hugo # build my project
+      - uses: bcomnes/deploy-to-neocities@v1 # deploy!
+        with: # config for the action
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          dist_dir: "public" # my build output directory
+          cleanup: true # delete anything on neocities that's not in my dist_dir
