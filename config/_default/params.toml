@@ -32,7 +32,7 @@ smartTOC = true
   showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = true
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, customs"
