@@ -11,26 +11,31 @@ concurrency: # prevent concurrent deploys doing strange things
 
 jobs:
   deploy:
-    name: "Deploy to Neocities"
+    name: Build and deploy Hugo site
     runs-on: ubuntu-latest
     steps:
       # Install Hugo in the runner
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0
         with:
-          hugo-version: '0.119.0'
-          # extended: true
+          hugo-version: '0.121.1'
+          extended: true
+
       # Check out the source for the site
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+
       # Build the site with Hugo
       - name: Build with Hugo
         run: hugo --minify
-      # When the dist_dir is ready, deploy it to neocities
-      - name: Deploy to neocities
+      
+      # Push the rendered site to Neocities and clean up any orphaned files
+
+      - name: Deploy to Neocities
         uses: bcomnes/deploy-to-neocities@v1
         with:
-          github_token: ${{ secrets.NEOCITIES_TOKEN }}
-          publish_dir: public
+          api_token: ${{ secrets.NEOCITIES_TOKEN }}
+          cleanup: true
+          dist_dir: public
