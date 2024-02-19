@@ -1,24 +1,13 @@
-# .github/workflows/deploy-to-neocities.yml
 name: Deploy to Neocities
-
 on:
   # Build on pushes to the main branch only
   push:
     branches:
       - main
- 
-concurrency:
-  group: deploy-to-neocities
-  cancel-in-progress: true
-
-defaults:
-  run:
-    shell: bash
-
 jobs:
   deploy:
     name: Build and deploy Hugo site
-   runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       # Install Hugo in the runner
       - name: Hugo setup
@@ -44,5 +33,4 @@ jobs:
         with:
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           cleanup: true
-
           dist_dir: public
