@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Install Hugo in the runner
-      - name: Hugo setup
-        uses: peaceiris/actions-hugo@v2.6.0
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.121.1'
-          extended: true
+          hugo-version: '0.119.0'
+          # extended: true
       # Check out the source for the site
       - name: Checkout
         uses: actions/checkout@v4
@@ -29,8 +29,9 @@ jobs:
       - name: Build with Hugo
         run: hugo --minify
       # When the dist_dir is ready, deploy it to neocities
-      - uses: bcomnes/deploy-to-neocities@v1
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: true
-          dist_dir: public
+          github_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          publish_dir: public
