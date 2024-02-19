@@ -1,33 +1,48 @@
-name: Deploy to neocities
+# .github/workflows/deploy-to-neocities.yml
+name: Deploy to Neocities
 
-# only run on changes to master
 on:
+  # Build on pushes to the main branch only
   push:
     branches:
       - main
-
-concurrency: # prevent concurrent deploys doing strange things
+ 
+concurrency:
   group: deploy-to-neocities
   cancel-in-progress: true
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-
+    name: Build and deploy Hugo site
+   runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
-    # Set up any tools and build steps here
-    # This example uses a Node.js toolchain to build a site
-    - name: Use Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: lts/*
-    - name: Install deps and build
-      run: hugo
-    # When the dist_dir is ready, deploy it to neocities
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v1
-      with:
-        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: true
-        dist_dir: public
+      # Install Hugo in the runner
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0
+        with:
+          hugo-version: '0.121.1'
+          extended: true
+
+      # Check out the source for the site
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      # Build the site with Hugo
+      - name: Build with Hugo
+        run: hugo --minify
+
+      # Push the rendered site to Neocities and bclean up any orphaned files
+
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: true
+
+          dist_dir: public
