@@ -24,15 +24,8 @@ jobs:
           HUGO_VERSION: 0.119.1
       with:
         node-version: lts/*
-    - name: Install deps and build
-        run: |
-          mkdir ~/hugo
-          cd ~/hugo
-          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz" --output hugo.tar.gz
-          tar -xvzf hugo.tar.gz
-          sudo mv hugo /usr/local/bin          
-      - name: 🛠️ Build
-        run: hugo
+    - name: 🛠️ Build
+      run: hugo
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
