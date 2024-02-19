@@ -33,5 +33,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          github_token: ${{ secrets.NEOCITIES_TOKEN }}
           publish_dir: public
