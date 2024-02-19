@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      
+
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
   cancel-in-progress: true
@@ -12,7 +12,6 @@ concurrency: # prevent concurrent deploys doing strange things
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       # Install Hugo in the runner
       - name: Hugo setup
@@ -20,21 +19,18 @@ jobs:
         with:
           hugo-version: '0.121.1'
           extended: true
-
       # Check out the source for the site
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
-
       # Build the site with Hugo
       - name: Build with Hugo
         run: hugo --minify
-
-# When the dist_dir is ready, deploy it to neocities
-    - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v1
-      with:
-        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: false
-        dist_dir: public
+      # When the dist_dir is ready, deploy it to neocities
+      - name: Deploy to neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: false
+          dist_dir: public
