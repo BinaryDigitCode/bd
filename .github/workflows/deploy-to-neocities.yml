@@ -6,16 +6,25 @@ on:
     branches:
       - main
 
+concurrency: # prevent concurrent deploys doing strange things
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
 jobs:
   deploy:
     name: Build and Deploy
     runs-on: ubuntu-latest
+
+
     steps:
-      - name: 🛒 Checkout
-        uses: actions/checkout@v3
-      - name: ✨ Setup Hugo
-        env:
+    - uses: actions/checkout@v3
+    # Set up any tools and build steps here
+    - name: ✨ Setup Hugo
+      env:
           HUGO_VERSION: 0.119.1
+      with:
+        node-version: lts/*
+    - name: Install deps and build
         run: |
           mkdir ~/hugo
           cd ~/hugo
@@ -24,7 +33,10 @@ jobs:
           sudo mv hugo /usr/local/bin          
       - name: 🛠️ Build
         run: hugo
-        with:
-          api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: true
-          dist_dir: public
+    # When the dist_dir is ready, deploy it to neocities
+    - name: Deploy to neocities
+      uses: bcomnes/deploy-to-neocities@v1
+      with:
+        api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
+        cleanup: false
+        dist_dir: public
