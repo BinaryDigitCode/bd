@@ -4,10 +4,15 @@ on:
   push:
     branches:
       - main
+      
+concurrency: # prevent concurrent deploys doing strange things
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
 jobs:
   deploy:
-    name: Build and deploy Hugo site
     runs-on: ubuntu-latest
+
     steps:
       # Install Hugo in the runner
       - name: Hugo setup
