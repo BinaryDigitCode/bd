@@ -23,9 +23,7 @@ jobs:
       with:
         node-version: lts/*
     - name: Install deps and build
-      run: |
-        npm i
-        npm run build
+      run: hugo
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
