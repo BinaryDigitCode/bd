@@ -1,8 +1,8 @@
 ---
-title: Migrating my Hugo Website to Neocities and Deploying with Github Actions
+title: Migrating my Hugo Website to Neocities and Deploying with GitHub Actions
 date: 2024-02-19
 categories: ["Projects"]
-tags: ["neocities", "github"]
+tags: ["neocities", "GitHub"]
 ---
 
 ## Neocities
@@ -11,11 +11,11 @@ I've always loved the idea of Neocities and have tinkered with my free site ther
 
 Recently I've seen more and more people on the supporter plan where you can host unlimited sites, have increased bandwidth, use custom domain names, and support open source and the small web. Today I decided to become a supporter since for $5 a month is a great value and I wanted to migrate my main websites from Netlify to Neocities.
 
-## Github Actions
+## GitHub Actions
 
-I've learned about Github Actions and realized this makes deployment much easier since I don't have to push my code to GitHub and then push it to Neocities. A small task right now, but why not learn how to automate it, right?
+I've learned about GitHub Actions and realized this makes deployment much easier since I don't have to push my code to GitHub and then push it to Neocities. A small task right now, but why not learn how to automate it, right?
 
-I ran across the every amazing website of [Sophie Koonin](https://localghost.dev/blog/how-i-deploy-my-eleventy-site-to-neocities/) and how she deployed her site using Github Actions. She explains perfectly how to get your Neocities key and add it to Github. The one problem I ran into was that Sophie uses 11ty, but I use Hugo on this site. After searching some more, I ran across John Bowdre's blog post on how to [Deploy a Hugo Site to Neocities with Github Actions](https://runtimeterror.dev/deploy-hugo-neocities-github-actions/) - just what I needed!
+I ran across the every amazing website of [Sophie Koonin](https://localghost.dev/blog/how-i-deploy-my-eleventy-site-to-neocities/) and how she deployed her site using GitHub Actions. She explains perfectly how to get your Neocities key and add it to GitHub. The one problem I ran into was that Sophie uses 11ty, but I use Hugo on this site. After searching some more, I ran across John Bowdre's blog post on how to [Deploy a Hugo Site to Neocities with GitHub Actions](https://runtimeterror.dev/deploy-hugo-neocities-github-actions/) - just what I needed!
 
 ## My Workflow
 
