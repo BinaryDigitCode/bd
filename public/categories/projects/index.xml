@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating my Hugo Website to Neocities and Deploying with Github Actions</title>
+      <link>https://binarydigit.cafe/notes/neocities-github-actions/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/neocities-github-actions/</guid>
+      <description>Neocities # I&amp;rsquo;ve always loved the idea of Neocities and have tinkered with my free site there for a few months but never landed on a long term project.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/neocities-github-actions/feature-neocities.png" />
+    </item>
+    
     <item>
       <title>Small Web Blogs Compared - Updated</title>
       <link>https://binarydigit.cafe/notes/small-web-blogs/</link>

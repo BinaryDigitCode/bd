@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://binarydigit.cafe/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://binarydigit.cafe/notes/neocities-github-actions/</loc>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://binarydigit.cafe/notes/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-02-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -111,11 +117,6 @@
   </url>
   <url>
     <loc>https://binarydigit.cafe/music/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/rsstest/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
