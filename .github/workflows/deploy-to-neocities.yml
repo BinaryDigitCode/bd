@@ -5,7 +5,7 @@ on:
     branches:
       - main
 
-concurrency: # prevent concurrent deploys doing strange things
+concurrency: 
   group: deploy-to-neocities
   cancel-in-progress: true
 
