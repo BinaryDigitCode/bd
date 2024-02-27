@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neocities on BinaryDigit</title>
+    <link>https://binarydigit.cafe/tags/neocities/</link>
+    <description>Recent content in neocities on BinaryDigit</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/tags/neocities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrating my Hugo Website to Neocities and Deploying with GitHub Actions</title>
+      <link>https://binarydigit.cafe/notes/neocities-github-actions/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/notes/neocities-github-actions/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Neocities 
+    &lt;div id=&#34;neocities&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#neocities&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve always loved the idea of Neocities and have tinkered with my free site there for a few months but never landed on a long term project. Only recently I learned that you can use the Neocities API and CLI to push a site to your space! It&amp;rsquo;s awesome and available on the free tier.&lt;/p&gt;
+&lt;p&gt;Recently I&amp;rsquo;ve seen more and more people on the supporter plan where you can host unlimited sites, have increased bandwidth, use custom domain names, and support open source and the small web. Today I decided to become a supporter since for $5 a month is a great value and I wanted to migrate my main websites from Netlify to Neocities.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;GitHub Actions 
+    &lt;div id=&#34;github-actions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-actions&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve learned about GitHub Actions and realized this makes deployment much easier since I don&amp;rsquo;t have to push my code to GitHub and then push it to Neocities. A small task right now, but why not learn how to automate it, right?&lt;/p&gt;
+&lt;p&gt;I ran across the every amazing website of &lt;a href=&#34;https://localghost.dev/blog/how-i-deploy-my-eleventy-site-to-neocities/&#34;   target=&#34;_blank&#34;&gt;
+    Sophie Koonin&lt;/a&gt; and how she deployed her site using GitHub Actions. She explains perfectly how to get your Neocities key and add it to GitHub. The one problem I ran into was that Sophie uses 11ty, but I use Hugo on this site. After searching some more, I ran across John Bowdre&amp;rsquo;s blog post on how to &lt;a href=&#34;https://runtimeterror.dev/deploy-hugo-neocities-github-actions/&#34;   target=&#34;_blank&#34;&gt;
+    Deploy a Hugo Site to Neocities with GitHub Actions&lt;/a&gt; - just what I needed!&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;My Workflow 
+    &lt;div id=&#34;my-workflow&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-workflow&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I had to fiddle with my workflow but the below is what ended up working for me, since I don&amp;rsquo;t use the exact same setup as others:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;name: Deploy to Neocities
+on:
+  push:
+    branches:
+      - main
+
+concurrency: 
+  group: deploy-to-neocities
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    name: Build and deploy Hugo site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hugo setup
+        uses: peaceiris/actions-hugo@v2.6.0
+        with:
+          hugo-version: &amp;#39;0.121.1&amp;#39;
+          extended: true
+
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      # Build the site with Hugo
+      - name: Build with Hugo
+        run: hugo --minify
+      
+    # Push public dir to Neocities and clean up any orphaned files
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v1
+        with:
+          api_token: ${{ secrets.NEOCITIES_TOKEN }}
+          cleanup: true
+          dist_dir: public
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I hope this helps you just like the blog posts above helped me get in the right direction! If you&amp;rsquo;re on Neocities and want to &lt;a href=&#34;https://neocities.org/site/binarydigit&#34;   target=&#34;_blank&#34;&gt;
+    follow me&lt;/a&gt;, say hi there or on &lt;a href=&#34;https://social.lol/@BinaryDigit&#34;   target=&#34;_blank&#34;&gt;
+    Mastodon&lt;/a&gt;!&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/neocities-github-actions/feature-neocities.png" />
+    </item>
+    
+  </channel>
+</rss>

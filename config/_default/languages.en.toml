@@ -19,6 +19,7 @@ title = "BinaryDigit"
    headline = "A digital cafe of hobbies, projects and notes"
    bio = "B's digital cafe of hobbies, projects and notes"
    links = [
+      { mug-hot = "https://blog.binarydigit.cafe" },
       { envelope = "mailto:hi[at]binarydigit.cafe" },
       { twitch = "https://www.twitch.tv/BinaryDigit/" },
       { youtube = "https://youtube.com/@BinaryDigit/" },
@@ -27,7 +28,5 @@ title = "BinaryDigit"
       { mastodon = "https://social.lol/@BinaryDigit/" },
       { image = "https://glass.photo/binarydigit" },
       { github = "https://github.com/BinaryPixels/" },  
-      { pencil = "https://scribbles.binarydigit.cafe" },
       { prami = "https://links.binarydigit.cafe/" },
-      { ko-fi = "https://ko-fi.com/binarydigit/" },
    ]
