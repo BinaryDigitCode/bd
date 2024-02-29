@@ -98,6 +98,8 @@
   
     </section>
   <footer class="pt-8 max-w-prose print:hidden">
+    <!-- Tinylitics Kudos -->
+    <button class="tinylytics_kudos"></button>
 
     {{ partial "article-pagination.html" . }}
     {{ if .Params.showComments | default (.Site.Params.article.showComments | default false) }}
