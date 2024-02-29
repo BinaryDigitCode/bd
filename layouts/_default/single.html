@@ -95,10 +95,12 @@
       {{ $jsPage := resources.Get "js/page.js" }}
       {{ $jsPage = $jsPage | resources.Minify | resources.Fingerprint "sha512" }}
       <script type="text/javascript" src="{{ $jsPage.RelPermalink }}" integrity="{{ $jsPage.Data.Integrity }}"></script>
-  
     </section>
-        <!-- Tinylitics Kudos -->
-        <button class="tinylytics_kudos"></button>
+
+
+    <!-- Tinylitics Kudos -->
+    <small>Kudos <button class="tinylytics_kudos"></button></small>
+
 
   <footer class="pt-8 max-w-prose print:hidden">
     {{ partial "article-pagination.html" . }}
