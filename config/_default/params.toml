@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "marvel"
+colorScheme = "blowfish"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
 
@@ -36,7 +36,7 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, customs"
-  homepageImage = "img/vecteezy_abstract-geometric-pattern.jpg" # used in: hero, and card
+  homepageImage = "img/vecteezy_multicolor-geometric.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
