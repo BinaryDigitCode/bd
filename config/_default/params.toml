@@ -36,11 +36,7 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, customs"
-<<<<<<< HEAD
   homepageImage = "img/geometric-shapes-background-freepik.jpg" # used in: hero, and card
-=======
-  homepageImage = "img/vecteezy_multicolor-geometric.jpg" # used in: hero, and card
->>>>>>> refs/remotes/origin/main
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
