@@ -1,11 +1,12 @@
 ---
 title: "What I Use Everyday"
+description: "My /uses page"
 draft: true
 ---
 
 Things I use everyday! _A work in progress..._
 
-## Hardware
+## Hardware and devices
 
 - NZXT H1 Mini Pro PC Intel 32GB RAM 2x 1TB SSDs
 - 3x Gigabyte M27Q Monitors
@@ -21,8 +22,9 @@ Things I use everyday! _A work in progress..._
 - Hori Fightstick Alpha
 
 - 16" Macbook Pro Apple M1, 32GB RAM 1TB SSD
-- Keychron V10 (Alice Layout) QMK mech meyboard
+- Keychron V10 (Alice Layout) QMK mech keyboard
 - Yunzii mech keyboard w/Gateron Yellow switches
-- iPhone 15 Pro Max
 
-## Software
+- iPhone 15 Pro Max
+- Fuji X-T4
+- Fuji X-T20

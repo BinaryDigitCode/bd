@@ -6,7 +6,7 @@
     <description>Recent content on BinaryDigit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>Current Status: &lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
+    <copyright>&lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
     <lastBuildDate>Mon, 19 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Migrating my Hugo Website to Neocities and Deploying with GitHub Actions</title>
@@ -693,17 +693,6 @@ jobs:
 &lt;p&gt;I’m B, a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m originally from New York and currently living in Michigan.  My work background is in tech (I was a systems engineer, part time web dev, and now a manager). I would love to find more diverse folks in gaming, tech, music and all things creative. I love to travel, take photos, game on my PC, PS5 and Switch, stream, tweak code and always learning something new. ✨&lt;/p&gt;
 &lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me below.&lt;/p&gt;
-&lt;h2 class=&#34;relative group&#34;&gt;Email 
-    &lt;div id=&#34;email&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#email&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;&lt;code&gt;hi@binarydigit.cafe&lt;/code&gt;&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;Contact Me 
     &lt;div id=&#34;contact-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

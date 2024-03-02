@@ -12,10 +12,6 @@ I'm originally from New York and currently living in Michigan.  My work backgrou
 
 I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a _digital cafe_; a personal space to gather projects, what I'm working on, thoughts, and notes. You can read about my projects or get in touch with me below.
 
-## Email
-
-```hi@binarydigit.cafe```
-
 ## Contact Me
 
 <script data-letterbirduser="binarydigit" src="https://letterbird.co/embed/v1.js"></script>

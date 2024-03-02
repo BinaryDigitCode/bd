@@ -8,10 +8,10 @@ title = "BinaryDigit"
   isoCode = "en"
   rtl = false
   dateFormat = "Jan 2 2006"
-  logo = "img/arcade.png"
-  secondaryLogo = "img/cafe.png"
+  logo = "img/michigan-flation.png"
+  secondaryLogo = "img/statue-of-liberty-flaticon.png"
   description = "BinaryDigit's Digital Cafe"
-  copyright = 'Current Status: <script src="https://status.lol/binarydigit.js?time&link&no-emoji"></script>'
+  copyright = '<script src="https://status.lol/binarydigit.js?time&link&no-emoji"></script>'
 
  [author]
    name = "BinaryDigit"

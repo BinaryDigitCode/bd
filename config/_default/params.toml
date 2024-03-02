@@ -7,7 +7,7 @@
 
 colorScheme = "marvel"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
+autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = false
@@ -36,7 +36,7 @@ smartTOC = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, customs"
-  homepageImage = "img/vecteezy_abstract-geometric-pattern.jpg" # used in: hero, and card
+  homepageImage = "img/geometric-shapes-background-freepik.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = false
