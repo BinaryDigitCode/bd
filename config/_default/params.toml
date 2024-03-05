@@ -20,7 +20,7 @@ disableImageOptimization = false
 defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for background images 
 defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for featured images in all articles
 
-#highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
 #smartTOCHideUnfocusedChildren = true
 

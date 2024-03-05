@@ -1,14 +1,13 @@
 ---
 title: "What I Use Everyday"
 description: "My /uses page"
-draft: true
 ---
 
 Things I use everyday! _A work in progress..._
 
 ## Hardware and devices
 
-- NZXT H1 Mini Pro PC Intel 32GB RAM 2x 1TB SSDs
+- NZXT H1 Mini Pro PC Intel 32GB RAM 3x 1TB SSDs
 - 3x Gigabyte M27Q Monitors
 - Logitech G502X mouse
 - GoXLR Mini
@@ -17,8 +16,9 @@ Things I use everyday! _A work in progress..._
 - Razer Blade 15" 16GB RAM 2x 500GB SSDs
 - Street Fighter x Higround keyboard
 - Epic of Higround keyboard
-- Nintendo OLED Switch Splatoon Edition 
-- Playstation 5 
+- Nintendo OLED Switch Splatoon edition 
+- Nintendo Pro Controller Splatoon edition
+- Playstation 5 digital
 - Hori Fightstick Alpha
 
 - 16" Macbook Pro Apple M1, 32GB RAM 1TB SSD
