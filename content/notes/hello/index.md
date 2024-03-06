@@ -14,4 +14,4 @@ Welcome to my attempt at a new site with Hugo, finally, on my own domain and hos
 
 3. I'd love how to figure out how to import existing blog posts from my micro.blog, so eventually I can keep everything here. I'm not sure if this is possible, and it's not a huge deal anyway if I can get everything set up properly. I can restart a blog at any time.
 
-If you enjoy your stay, feel free to subscribe via RSS or follow me on the fediverse! ```@binarydigit.cafe@binarydigit.cafe```
+If you enjoy your stay, feel free to subscribe via RSS or say [hello](/about)!

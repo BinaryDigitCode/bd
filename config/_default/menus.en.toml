@@ -20,25 +20,25 @@
   name = "Music"
   pre = "music"
   pageRef = "/music"
-  weight = 50
+  weight = 20
 
 [[main]]
   name = "Projects"
   pre = "lightbulb"
   pageRef = "/projects"
-  weight = 60
+  weight = 30
 
 [[main]]
   name = "Uses"
   pre = "list"
   pageRef = "/uses"
-  weight = 70
+  weight = 40
 
 [[main]]
   name = "About"
   pre = "circle-info"
   pageRef = "/about"
-  weight = 80
+  weight = 50
 
 [[main]]
  name = ""

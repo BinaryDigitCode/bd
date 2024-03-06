@@ -1,6 +1,7 @@
 ---
 title: "What I Use Everyday"
 description: "My /uses page"
+# showHero: false
 ---
 
 Things I use everyday! _A work in progress..._
