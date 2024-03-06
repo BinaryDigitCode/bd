@@ -678,44 +678,95 @@ jobs:
 &lt;p&gt;I&amp;rsquo;d love how to figure out how to import existing blog posts from my micro.blog, so eventually I can keep everything here. I&amp;rsquo;m not sure if this is possible, and it&amp;rsquo;s not a huge deal anyway if I can get everything set up properly. I can restart a blog at any time.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;If you enjoy your stay, feel free to subscribe via RSS or follow me on the fediverse! &lt;code&gt;@binarydigit.cafe@binarydigit.cafe&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If you enjoy your stay, feel free to subscribe via RSS or say &lt;a href=&#34;https://binarydigit.cafe/about&#34;  &gt;
+    hello&lt;/a&gt;!&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/hello/feature-rainbow.jpg" />
     </item>
     
     <item>
-      <title>About &amp; Contact</title>
+      <title>About Me and Website</title>
       <link>https://binarydigit.cafe/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/about/</guid>
-      <description>&lt;img src=&#34;BinaryDigit.png&#34; alt=&#34;BinaryDigit&#34; width=&#34;300&#34;/&gt;
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;About Me 
+    &lt;div id=&#34;about-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;img src=&#34;BinaryDigit.png&#34; alt=&#34;BinaryDigit graphic with colorful background&#34; width=&#34;100%&#34;/&gt;
 &lt;p&gt;I’m B, a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m originally from New York and currently living in Michigan.  My work background is in tech (I was a systems engineer, part time web dev, and now a manager). I would love to find more diverse folks in gaming, tech, music and all things creative. I love to travel, take photos, game on my PC, PS5 and Switch, stream, tweak code and always learning something new. ✨&lt;/p&gt;
-&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me below.&lt;/p&gt;
-&lt;h2 class=&#34;relative group&#34;&gt;Contact Me 
-    &lt;div id=&#34;contact-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me via &lt;a href=&#34;https://letterbird.co/binarydigit&#34;   target=&#34;_blank&#34;&gt;
+    this form&lt;/a&gt; or email &lt;strong&gt;hi[at]binarydigit.cafe&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;About this Site 
+    &lt;div id=&#34;about-this-site&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#contact-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#about-this-site&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;script data-letterbirduser=&#34;binarydigit&#34; src=&#34;https://letterbird.co/embed/v1.js&#34;&gt;&lt;/script&gt;
-&lt;h2 class=&#34;relative group&#34;&gt;Coffee 
-    &lt;div id=&#34;coffee&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#coffee&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;p&gt;If you like what I do, you can buy me a coffee!&lt;/p&gt;
-&lt;script type=&#39;text/javascript&#39; src=&#39;https://storage.ko-fi.com/cdn/widget/Widget_2.js&#39;&gt;&lt;/script&gt;&lt;script type=&#39;text/javascript&#39;&gt;kofiwidget2.init(&#39;Ko-fi&#39;, &#39;#04a5e5&#39;, &#39;F2F321K6F&#39;);kofiwidget2.draw();&lt;/script&gt; 
+&lt;p&gt;This site is created with &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
+    Hugo&lt;/a&gt; with &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
+    Blowfish&lt;/a&gt; theme.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s hosted on &lt;a href=&#34;https://neocities.org/site/binarydigit&#34;   target=&#34;_blank&#34;&gt;
+    Neocities&lt;/a&gt; and deployed via &lt;a href=&#34;https://github.com&#34;   target=&#34;_blank&#34;&gt;
+    Github&lt;/a&gt; Actions.&lt;/p&gt;
+&lt;p&gt;My avatar (and the noAI button below) are created by the talented &lt;a href=&#34;https://www.andycarolan.com/&#34;   target=&#34;_blank&#34;&gt;
+    Andy Carolan&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Analytics and kudos are via &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
+    Tinylitics&lt;/a&gt; by the talented &lt;a href=&#34;https://vincentritter.com/&#34;   target=&#34;_blank&#34;&gt;
+    Vincent Ritter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feature images are created by BinaryDigit and &lt;a href=&#34;https://canva.com/&#34;   target=&#34;_blank&#34;&gt;
+    Canva Pro&lt;/a&gt; and/or photos via &lt;a href=&#34;https://unsplash.com&#34;   target=&#34;_blank&#34;&gt;
+    Unsplash&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Header logos are created by &lt;a href=&#34;https://www.flaticon.com/&#34;   target=&#34;_blank&#34;&gt;
+    Flaticon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Current Webrings: &lt;a href=&#34;https://cs.sjoy.lol/&#34;   target=&#34;_blank&#34;&gt;
+    CS JOY&lt;/a&gt; &amp;amp;  &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
+    Tinylitics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like, you can buy me a &lt;a href=&#34;https://ko-fi.com/binarydigit/tip&#34;   target=&#34;_blank&#34;&gt;
+    coffee 
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34; encoding=&#34;UTF-8&#34;?&gt;
+&lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt;
+&lt;svg width=&#34;211.67mm&#34; height=&#34;211.67mm&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 211.67 211.67&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+ &lt;defs&gt;
+  &lt;clipPath id=&#34;clipPath25&#34;&gt;
+   &lt;path d=&#34;m0 600h1654.8v-600h-1654.8z&#34; fill=&#34;currentColor&#34;/&gt;
+  &lt;/clipPath&gt;
+ &lt;/defs&gt;
+ &lt;g transform=&#34;translate(-3.0786 -29.59)&#34;&gt;
+  &lt;g transform=&#34;matrix(.35278 0 0 -.35278 3.0785 241.26)&#34;&gt;
+   &lt;g clip-path=&#34;url(#clipPath25)&#34;&gt;
+    &lt;g transform=&#34;translate(600 300)&#34;&gt;
+     &lt;path d=&#34;m-300 300c-165.69 0-300-134.31-300-300 0-165.69 134.31-300 300-300 165.68 0 300 134.31 300 300 0 165.69-134.32 300-300 300zm-188.93-166.99h329.58c23.223 0 46.032-6.8325 65.073-20.125 18.412-12.856 36.378-33.646 42.697-67.02 14.674-77.514-43.568-135.76-126.12-131.18 0.438-21.268-3.8105-59.422-44.878-69.696-3.282-0.821-6.6604-1.186-10.044-1.207-72.13-0.448-222.53-0.88916-222.53-0.88916s-46.066-0.01555-49.176 45.962c-1.023 77.88-0.48339 223.69-0.48339 223.69s-0.02651 2.9267-0.02051 3.6577c0.043 5.607 4.4359 16.8 15.901 16.8zm312.71-55.573v-107.8s14.302-1.6507 31.907 0.54932c20.356 6.6 39.06 20.901 39.06 57.199 0 14.85-5.2614 25.601-11.837 33.239-9.341 10.848-23.152 16.809-37.469 16.809h-21.661z&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;/g&gt;
+    &lt;g transform=&#34;translate(256.61 203.37)&#34;&gt;
+     &lt;path d=&#34;m0 0c3.585-1.806 5.876 0.437 5.876 0.437s52.457 47.878 76.089 75.452c21.018 24.667 22.389 66.234-13.708 81.766-36.096 15.532-65.795-18.272-65.795-18.272-25.755 28.326-64.734 26.891-82.763 7.721-18.027-19.169-11.732-52.072 1.717-70.383 12.626-17.19 68.119-66.65 76.529-75.015 0 0 0.614-0.641 2.055-1.706&#34; fill=&#34;currentColor&#34;/&gt;
+    &lt;/g&gt;
+   &lt;/g&gt;
+  &lt;/g&gt;
+ &lt;/g&gt;
+&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;flex items-center justify-center text-center&#34;&gt;
+&lt;img src=&#34;NoAi_03.png&#34; alt=&#34;Made by a Human graphic by Andy Carolan&#34; width=&#34;auto&#34;&gt;&amp;nbsp;
+&lt;img src=&#34;neocities.png&#34; alt=&#34;Hosted on Neocities&#34; width=&#34;auto&#34;&gt;
+&lt;/div&gt; 
 </description>
       
     </item>
@@ -968,6 +1019,86 @@ jobs:
 &lt;/table&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/commands/featured-twitch-background.jpg" />
+    </item>
+    
+    <item>
+      <title>What I Use Everyday</title>
+      <link>https://binarydigit.cafe/uses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/uses/</guid>
+      <description>&lt;p&gt;Things I use everyday! &lt;em&gt;A work in progress&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Hardware and devices 
+    &lt;div id=&#34;hardware-and-devices&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hardware-and-devices&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;NZXT H1 Mini Pro PC Intel 32GB RAM 3x 1TB SSDs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3x Gigabyte M27Q Monitors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Logitech G502X mouse&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GoXLR Mini&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Astro A40 Headphones&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fujifilm X-T20 Camera&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Razer Blade 15&amp;quot; 16GB RAM 2x 500GB SSDs&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Street Fighter x Higround keyboard&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Epic of Higround keyboard&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nintendo OLED Switch Splatoon edition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Nintendo Pro Controller Splatoon edition&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Playstation 5 digital&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hori Fightstick Alpha&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;16&amp;quot; Macbook Pro Apple M1, 32GB RAM 1TB SSD&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Keychron V10 (Alice Layout) QMK mech keyboard&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Yunzii mech keyboard w/Gateron Yellow switches&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;iPhone 15 Pro Max&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fuji X-T4&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fuji X-T20&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/uses/feature-uses.png" />
     </item>
     
   </channel>
