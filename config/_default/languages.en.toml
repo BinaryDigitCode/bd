@@ -17,7 +17,7 @@ copyright = '<script src="https://status.lol/binarydigit.js?time&link&no-emoji">
 name = "BinaryDigit"
 image = "img/AvatarByAndyCarolan1.png"
 headline = "A digital cafe of hobbies, projects and notes"
-bio = "B's digital cafe of hobbies, projects and notes"
+bio = "A digital cafe of hobbies, projects and notes"
 links = [
     { pencil = "https://blog.binarydigit.cafe" },
     { ko-fi = "https://ko-fi.com/binarydigit/" },
