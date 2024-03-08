@@ -1,1 +1,1 @@
-I’m B 👋🏽 I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me at the links above or read my [micro blog <i class="fa-brands fa-microblog"></i> ](https://blog.binarydigit.cafe)
+I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me at the links above or read my [micro blog <i class="fa-brands fa-microblog"></i> ](https://blog.binarydigit.cafe)
