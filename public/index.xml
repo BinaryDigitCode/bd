@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BinaryDigit</title>
+    <title>The Cafe</title>
     <link>https://binarydigit.cafe/</link>
-    <description>Recent content on BinaryDigit</description>
+    <description>Recent content on The Cafe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
-    <lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Celebrate How You Want To</title>
       <link>https://binarydigit.cafe/notes/celebrate/</link>
@@ -88,7 +88,7 @@
 
 &lt;p&gt;Now I need to get good 🤓 And no, I won&amp;rsquo;t be your Steam friend unless I know you 🤣&lt;/p&gt;
 </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://binarydigit.cafe/notes/celebrate/feature-cs2.png" />
     </item>
     
     <item>
@@ -784,9 +784,9 @@ jobs:
     
 &lt;/h2&gt;
 &lt;img src=&#34;BinaryDigit.png&#34; alt=&#34;BinaryDigit graphic with colorful background&#34; width=&#34;100%&#34;/&gt;
-&lt;p&gt;I’m B, a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m originally from New York and currently living in Michigan.  My work background is in tech (I was a systems engineer, part time web dev, and now a manager). I would love to find more diverse folks in gaming, tech, music and all things creative. I love to travel, take photos, game on my PC, PS5 and Switch, stream, tweak code and always learning something new. ✨&lt;/p&gt;
-&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me via &lt;a href=&#34;https://letterbird.co/binarydigit&#34;   target=&#34;_blank&#34;&gt;
+&lt;p&gt;I’m B (aka Liz), a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m originally from New York and currently living in Michigan. My work background is in tech (I was a systems engineer, part time web dev, and now a manager). I would love to find more diverse folks in gaming, tech, music and all things creative. I love to travel, take photos, game on my PC, PS5 and Switch, stream, tweak code and always learning something new. ✨&lt;/p&gt;
+&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me via &lt;a href=&#34;https://letterbird.co/binarydigit/&#34;   target=&#34;_blank&#34;&gt;
     this form&lt;/a&gt; or email &lt;strong&gt;hi[at]binarydigit.cafe&lt;/strong&gt;.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;About this Site 
     &lt;div id=&#34;about-this-site&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -802,8 +802,7 @@ jobs:
     Hugo&lt;/a&gt; with &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish&lt;/a&gt; theme.&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s hosted on &lt;a href=&#34;https://neocities.org/site/binarydigit&#34;   target=&#34;_blank&#34;&gt;
-    Neocities&lt;/a&gt; and deployed via &lt;a href=&#34;https://github.com&#34;   target=&#34;_blank&#34;&gt;
-    Github&lt;/a&gt; Actions.&lt;/p&gt;
+    Neocities&lt;/a&gt; and deployed via Github Actions.&lt;/p&gt;
 &lt;p&gt;My avatar (and the noAI button below) are created by the talented &lt;a href=&#34;https://www.andycarolan.com/&#34;   target=&#34;_blank&#34;&gt;
     Andy Carolan&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Analytics and kudos are via &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
@@ -815,9 +814,9 @@ jobs:
 &lt;p&gt;Header logos are created by &lt;a href=&#34;https://www.flaticon.com/&#34;   target=&#34;_blank&#34;&gt;
     Flaticon&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Current Webrings: &lt;a href=&#34;https://cs.sjoy.lol/&#34;   target=&#34;_blank&#34;&gt;
-    CS JOY&lt;/a&gt; &amp;amp;  &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
+    CS JOY&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
     Tinylitics&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like, you can buy me a &lt;a href=&#34;https://ko-fi.com/binarydigit/tip&#34;   target=&#34;_blank&#34;&gt;
+&lt;p&gt;If you&amp;rsquo;d like, you can buy me a &lt;a href=&#34;https://ko-fi.com/binarydigit/&#34;   target=&#34;_blank&#34;&gt;
     coffee 
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
@@ -849,7 +848,7 @@ jobs:
 &lt;div class=&#34;flex items-center justify-center text-center&#34;&gt;
 &lt;img src=&#34;NoAi_03.png&#34; alt=&#34;Made by a Human graphic by Andy Carolan&#34; width=&#34;auto&#34;&gt;&amp;nbsp;
 &lt;img src=&#34;neocities.png&#34; alt=&#34;Hosted on Neocities&#34; width=&#34;auto&#34;&gt;
-&lt;/div&gt; 
+&lt;/div&gt;
 </description>
       
     </item>

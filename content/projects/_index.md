@@ -1,21 +1,23 @@
 ---
 title: "My Current Projects"
-description: BinaryDigit's current web projects
+description: BinaryDigit's current projects
 ---
-### A Personal Photo Gallery
-
-I've set up a photo gallery for snapshots using [Chevereto](https://chevereto.com) over at [binarydigit.photos](https://binarydigit.photos). This is for personal photos and galleries, not a porfolio site.
-
-### Livestreaming on Twitch
-
-I livestream music mixes and gameplay on [Twitch](https://www.twitch.tv/binarydigit/about). I'm working on a tiny "studio" at home so I can stream consistently - a big goal this year.
 
 ### This Personal Website
 
 I’ve set up this fun website with [Hugo](https://gohugo.io) and the [Blowfish](https://blowfish.page) theme which is incredibly customizable and has so many features. This is my digital garden where I'll write notes and thoughts.
 
-### My Professonal Website
 
-Also built on Hugo and Blowfish, I've created a username [LizPixels](https://lizpixels.com), that I feel works better for a "more professional" prescence on the web, seperate to my hobbies here. I'll see if I end up using it at all, but for now I hope to make it a site focused on my professional experiences and new things I'd like to learn.
+### Livestreaming on Twitch
 
-## External Links
+I livestream music mixes and gameplay on [Twitch](https://www.twitch.tv/binarydigit/about). I'm working on a tiny "studio" at home so I can stream consistently - a big goal this year.
+
+
+### DJ Mix Uploads
+
+I'm trying out [HearThis.at](https://hearthis.at/binarydigitdj) for a while instead of uploading to SoundCloud since it's so pricey, and I don't produce my own audio anyway. These uploads will be for others to enjoy mixes that I've done on Twitch or offline.
+
+### Caffeine and Code
+
+Also built with [Hugo](https://gohugo.io) and with the [Congo](https://jpanther.github.io/congo) theme, I'd like to make this website dedicated to my coding projects and more "professional" prescence on the web.
+

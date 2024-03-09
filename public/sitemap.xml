@@ -4,7 +4,13 @@
 
   <url>
     <loc>https://binarydigit.cafe/</loc>
-    <lastmod>2024-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://binarydigit.cafe/projects/</loc>
+    <lastmod>2024-03-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -59,12 +65,6 @@
   <url>
     <loc>https://binarydigit.cafe/notes/feb2024/</loc>
     <lastmod>2024-02-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://binarydigit.cafe/projects/</loc>
-    <lastmod>2024-01-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
