@@ -17,115 +17,115 @@ enableCodeCopy = false
 
 disableImageOptimization = false
 
-defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for background images 
-defaultFeaturedImage = "img/pastel-squares-freepik.jpg" # used as default for featured images in all articles
+defaultBackgroundImage = "img/pastel-squares-freepik.jpg" # used as default for background images
+defaultFeaturedImage = "img/pastel-squares-freepik.jpg"   # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
 smartTOC = true
 #smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
 
 [footer]
-  showMenu = true
-  showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = true
-  showScrollToTop = false
+showMenu = true
+showCopyright = true
+showThemeAttribution = false
+showAppearanceSwitcher = true
+showScrollToTop = false
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, customs"
-  homepageImage = "img/geometric-shapes-background-freepik.jpg" # used in: hero, and card
-  showRecent = true
-  showRecentItems = 3
-  showMoreLink = false
-  showMoreLinkDest = "/notes"
-  cardView = true
-  cardViewScreenWidth = false
-  layoutBackgroundBlur = true # only used when layout equals background
+layout = "background"                                         # valid options: page, profile, hero, card, background, customs"
+homepageImage = "img/geometric-shapes-background-freepik.jpg" # used in: hero, and card
+showRecent = true
+showRecentItems = 3
+showMoreLink = false
+showMoreLinkDest = "/notes"
+cardView = true
+cardViewScreenWidth = false
+layoutBackgroundBlur = true                                   # only used when layout equals background
 
 [article]
-  showDate = false
-  showViews = false
-  showLikes = false
-  showDateUpdated = false
-  showAuthor = true
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
-  showDraftLabel = true
-  showEdit = true
-  editURL = "https://github.com/BinaryPixels/bd/blob/main/content/"
-  editAppendPath = true
-  seriesOpened = false
-  showHeadingAnchors = true
-  showPagination = false
-  invertPagination = false
-  showReadingTime = false
-  showTableOfContents = true
-  showRelatedContent = true
-  relatedContentLimit = 3
-  showTaxonomies = true
-  showAuthorsBadges = false
-  showWordCount = false
-  showComments = true
-  #sharingLinks = [ "twitter", "reddit", "pinterest", "email"]
+showDate = false
+showViews = false
+showLikes = false
+showDateUpdated = false
+showAuthor = true
+showHero = true
+heroStyle = "background"                                            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true                                         # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = false                                 # only used when heroStyle equals background
+showBreadcrumbs = true
+showDraftLabel = true
+showEdit = true
+editURL = "https://github.com/CaffeinatedBit/bd/blob/main/content/"
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = false
+invertPagination = false
+showReadingTime = false
+showTableOfContents = true
+showRelatedContent = true
+relatedContentLimit = 3
+showTaxonomies = true
+showAuthorsBadges = false
+showWordCount = false
+showComments = true
+#sharingLinks = [ "twitter", "reddit", "pinterest", "email"]
 
 [list]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = true
-  showSummary = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  showCards = true
-  groupByYear = false
-  cardView = true
-  cardViewScreenWidth = false
-  constrainItemsWidth = false
+showHero = true
+heroStyle = "background"            # valid options: basic, big, background, thumbAndBackground
+layoutBackgroundBlur = true         # only used when heroStyle equals background or thumbAndBackground
+layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
+showBreadcrumbs = true
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+showCards = true
+groupByYear = false
+cardView = true
+cardViewScreenWidth = false
+constrainItemsWidth = false
 
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = false
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
-  cardView = false
+showTermCount = false
+showHero = true
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
 
 [term]
-  showHero = true
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = true
-  groupByYear = false
-  cardView = false
-  cardViewScreenWidth = false
+showHero = true
+heroStyle = "background"    # valid options: basic, big, background, thumbAndBackground
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+# apiKey = "XXXXXX"
+# authDomain = "XXXXXX"
+# projectId = "XXXXXX"
+# storageBucket = "XXXXXX"
+# messagingSenderId = "XXXXXX"
+# appId = "XXXXXX"
+# measurementId = "XXXXXX"
 
 [fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+# site = "ABC12345"
+# domain = "llama.yoursite.com"
 
 [kofi]
 # globalWidget = true
@@ -138,7 +138,7 @@ smartTOC = true
 # globalWidgetPosition = "Right"
 
 [verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
+# google = ""
+# bing = ""
+# pinterest = ""
+# yandex = ""
