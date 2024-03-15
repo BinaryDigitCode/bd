@@ -32,13 +32,11 @@ Header logos are created by [Flaticon](https://www.flaticon.com/).
 
 Current Webrings: [CS JOY](https://cs.sjoy.lol/) & [Tinylitics](https://tinylytics.app/).
 
-If you'd like, you can buy me a [coffee {{< icon "ko-fi" >}}](https://ko-fi.com/binarydigit/)
-
-<div class="flex items-center justify-center text-center">
-<img src="NoAi_03.png" alt="Made by a Human graphic by Andy Carolan" width="auto">&nbsp;
-<img src="neocities.png" alt="Hosted on Neocities" width="auto">
+<div class="flex items-center text-center">
+<a href="https://ko-fi.com/andycarolan"><img src="NoAi_03.png" alt="Made by a Human graphic by Andy Carolan" width="auto"></a>&nbsp;
+<a href="https://neocities.org/site/binarydigit"><img src="neocities.png" alt="Hosted on Neocities" width="auto"></a>&nbsp;
+<a href="https://ko-fi.com/binarydigit/"><img src="ko-fi.png" alt="Support me on Ko-fi" width="200"></a>
 </div>
-
 
 
 ## Contact Me
@@ -46,3 +44,5 @@ If you'd like, you can buy me a [coffee {{< icon "ko-fi" >}}](https://ko-fi.com/
 You can email at **hi[at]binarydigit.cafe** or this form:
 
 <script data-letterbirduser="binarydigit" src="https://letterbird.co/embed/v1.js"></script>
+
+

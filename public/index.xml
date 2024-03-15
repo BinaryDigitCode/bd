@@ -768,6 +768,16 @@ jobs:
     </item>
     
     <item>
+      <title></title>
+      <link>https://binarydigit.cafe/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://binarydigit.cafe/now/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>About Me and Website</title>
       <link>https://binarydigit.cafe/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -786,8 +796,7 @@ jobs:
 &lt;img src=&#34;BinaryDigit.png&#34; alt=&#34;BinaryDigit graphic with colorful background&#34; width=&#34;100%&#34;/&gt;
 &lt;p&gt;I’m B (aka Liz), a Xennial who grew up when the internet was young, just as I was. My family bought our first computer in 1997, and I become fascinated with how computers worked, how the web evolved, and being online a bit too much!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m originally from New York and currently living in Michigan. My work background is in tech (I was a systems engineer, part time web dev, and now a manager). I would love to find more diverse folks in gaming, tech, music and all things creative. I love to travel, take photos, game on my PC, PS5 and Switch, stream, tweak code and always learning something new. ✨&lt;/p&gt;
-&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes. You can read about my projects or get in touch with me via &lt;a href=&#34;https://letterbird.co/binarydigit/&#34;   target=&#34;_blank&#34;&gt;
-    this form&lt;/a&gt; or email &lt;strong&gt;hi[at]binarydigit.cafe&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I’m doing a digital overhaul for the next few months and would like to make this site a digital garden, or in my case, a &lt;em&gt;digital cafe&lt;/em&gt;; a personal space to gather projects, what I&amp;rsquo;m working on, thoughts, and notes.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;About this Site 
     &lt;div id=&#34;about-this-site&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -808,6 +817,8 @@ jobs:
 &lt;p&gt;Analytics and kudos are via &lt;a href=&#34;https://tinylytics.app/&#34;   target=&#34;_blank&#34;&gt;
     Tinylitics&lt;/a&gt; by the talented &lt;a href=&#34;https://vincentritter.com/&#34;   target=&#34;_blank&#34;&gt;
     Vincent Ritter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contact form is powered by &lt;a href=&#34;https://letterbird.co/&#34;   target=&#34;_blank&#34;&gt;
+    Letterbird&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Feature images are created by BinaryDigit and &lt;a href=&#34;https://canva.com/&#34;   target=&#34;_blank&#34;&gt;
     Canva Pro&lt;/a&gt; and/or photos via &lt;a href=&#34;https://unsplash.com&#34;   target=&#34;_blank&#34;&gt;
     Unsplash&lt;/a&gt;.&lt;/p&gt;
@@ -849,6 +860,18 @@ jobs:
 &lt;img src=&#34;NoAi_03.png&#34; alt=&#34;Made by a Human graphic by Andy Carolan&#34; width=&#34;auto&#34;&gt;&amp;nbsp;
 &lt;img src=&#34;neocities.png&#34; alt=&#34;Hosted on Neocities&#34; width=&#34;auto&#34;&gt;
 &lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Contact Me 
+    &lt;div id=&#34;contact-me&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#contact-me&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;You can email at &lt;strong&gt;hi[at]binarydigit.cafe&lt;/strong&gt; or this form:&lt;/p&gt;
+&lt;script data-letterbirduser=&#34;binarydigit&#34; src=&#34;https://letterbird.co/embed/v1.js&#34;&gt;&lt;/script&gt;
 </description>
       
     </item>

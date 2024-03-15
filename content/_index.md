@@ -1,1 +1,1 @@
-I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me at the links above or read my [micro blog <i class="fa-brands fa-microblog"></i> ](https://blog.binarydigit.cafe)
+Welcome to my digital cafe! I work in tech, live stream music mixes and games, tinker with code, take photos, and love to travel. Read more [about](/about) me at the links above, read my [notes](/notes) or [micro blog](https://blog.binarydigit.cafe). If you like what I do, you can buy me a [coffee](https://ko-fi.com/binarydigit/)!
