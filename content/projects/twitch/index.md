@@ -1,7 +1,7 @@
 ---
-title: "Twitch"
-date: 2024-01-01
-externalUrl: "https://www.twitch.tv/binarydigit"
+title: "Twitch Streaming Website"
+date: 2024-03-18
+externalUrl: "https://binarydigit.stream"
 summary: "BinaryDigit on Twitch"
 showReadingTime: false
 _build:

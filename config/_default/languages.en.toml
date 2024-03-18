@@ -16,17 +16,15 @@ copyright = '<script src="https://status.lol/binarydigit.js?time&link&no-emoji">
 [author]
 name = "BinaryDigit"
 image = "img/AvatarByAndyCarolan1.png"
-headline = "A digital cafe of hobbies, projects and notes"
-bio = "A digital cafe of hobbies, projects and notes"
+headline = "My digital home for hobbies and notes"
+bio = "My digital home for hobbies and notes"
 links = [
     { microdotblog = "https://blog.binarydigit.cafe" },
     { twitch = "https://www.twitch.tv/BinaryDigit/" },
+    { star = "https://binarydigit.stream/" },
     { mastodon = "https://social.lol/@BinaryDigit/" },
-    { youtube = "https://youtube.com/@BinaryDigit/" },
     { music = "https://hearthis.at/binarydigitdj/" },
     { peertube = "https://makertube.net/a/binarydigit/" },
-    { image = "https://glass.photo/binarydigit" },
-    { prami = "https://links.binarydigit.cafe/" },
-    { envelope = "/about" },
+    { prami = "https://binarydigit.omg.lol/" },
     { ko-fi = "https://ko-fi.com/binarydigit/" },
 ]

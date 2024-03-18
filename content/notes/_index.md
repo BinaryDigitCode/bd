@@ -1,5 +1,5 @@
 ---
-title: "Notes and Ideas"
+title: "Notes and Short Articles"
 description: "BinaryDigit's digital garden, aka cafe, of ideas and notes."
 showAuthor: false
 ---

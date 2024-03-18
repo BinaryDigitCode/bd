@@ -4,7 +4,7 @@ description: "My /uses page"
 # showHero: false
 ---
 
-Things I use everyday! _A work in progress..._
+Things I use everyday! {{< alert "circle-info" >}} In progress {{< /alert >}} 
 
 ## Hardware and devices
 
@@ -29,3 +29,12 @@ Things I use everyday! _A work in progress..._
 - iPhone 15 Pro Max
 - Fuji X-T4
 - Fuji X-T20
+
+## Software
+
+- Netnewswire
+- VS Codium
+- Pixelmater Pro
+- iMovie
+- DaVinci Resolve
+- Discord
