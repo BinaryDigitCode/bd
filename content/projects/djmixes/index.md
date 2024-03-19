@@ -1,5 +1,5 @@
 ---
-title: "DJ Mixe Uploads"
+title: "DJ Mix Uploads"
 date: 2024-01-01
 externalUrl: "https://hearthis.at/binarydigitdj"
 summary: "BinaryDigit on HearThis"

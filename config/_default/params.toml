@@ -35,8 +35,8 @@ showAppearanceSwitcher = true
 showScrollToTop = false
 
 [homepage]
-layout = "background"                                         # valid options: page, profile, hero, card, background, customs"
-homepageImage = "img/geometric-shapes-background-freepik.jpg" # used in: hero, and card
+layout = "background"                                               # valid options: page, profile, hero, card, background, customs"
+homepageImage = "img/geometric-shapes-background-freepik.jpg"   # used in: hero, and card
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
@@ -58,7 +58,7 @@ layoutBackgroundHeaderSpace = false                                 # only used 
 showBreadcrumbs = true
 showDraftLabel = true
 showEdit = true
-editURL = "https://github.com/CaffeinatedBit/bd/blob/main/content/"
+editURL = "https://github.com/BinaryLiz/bd/blob/main/content/"
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true

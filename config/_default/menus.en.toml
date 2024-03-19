@@ -17,10 +17,22 @@
   weight = 10
 
 [[main]]
+  name = "Micro Blog"
+  pre = "microdotblog"
+  url = "https://blog.binarydigit.cafe"
+  weight = 20
+
+[[main]]
+  name = "Stream Blog"
+  pre = "twitch"
+  url = "https://binarydigit.stream"
+  weight = 30
+
+[[main]]
   name = "Projects"
   pre = "lightbulb"
   pageRef = "/projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Uses"
@@ -37,7 +49,7 @@
 [[main]]
  name = ""
  pre = "rss"
-url = "https://binarydigit.cafe/index.xml"
+ url = "https://binarydigit.cafe/notes/index.xml"
  weight = 90
 
 [[subnavigation]]
