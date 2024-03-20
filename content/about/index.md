@@ -35,14 +35,9 @@ Current Webrings: [CS JOY](https://cs.sjoy.lol/) & [Tinylitics](https://tinylyti
 <div class="flex items-center text-center">
 <a href="https://ko-fi.com/andycarolan"><img src="NoAi_03.png" alt="Made by a Human graphic by Andy Carolan" width="auto"></a>&nbsp;
 <a href="https://neocities.org/site/binarydigit"><img src="neocities.png" alt="Hosted on Neocities" width="auto"></a>&nbsp;
-<a href="https://ko-fi.com/binarydigit/"><img src="ko-fi.png" alt="Support me on Ko-fi" width="200"></a>
+<a href="https://ko-fi.com/binarydigit/"><img src="ko-fi.png" alt="Support me on Ko-fi" width="80"></a>
 </div>
-
 
 ## Contact Me
 
-You can email at **hi[at]binarydigit.cafe** or this form:
-
 <script data-letterbirduser="binarydigit" src="https://letterbird.co/embed/v1.js"></script>
-
-
