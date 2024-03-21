@@ -18,7 +18,7 @@ jobs:
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v2.6.0
         with:
-          hugo-version: '0.121.1'
+          hugo-version: '0.119.1'
           extended: true
 
       # Check out the source for the site
@@ -38,4 +38,4 @@ jobs:
         with:
           api_token: ${{ secrets.NEOCITIES_TOKEN }}
           cleanup: true
-          dist_dir: public
+          dist_dir: ./public
