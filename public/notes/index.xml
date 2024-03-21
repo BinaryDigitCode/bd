@@ -9,12 +9,13 @@
     <copyright>&lt;script src=&#34;https://status.lol/binarydigit.js?time&amp;link&amp;no-emoji&#34;&gt;&lt;/script&gt;</copyright>
     <lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://binarydigit.cafe/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gisgus for Comments</title>
+      <title>Giscus for Comments</title>
       <link>https://binarydigit.cafe/notes/giscus-comments/</link>
       <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
       
       <guid>https://binarydigit.cafe/notes/giscus-comments/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve decided to remove webmentions from this website, in favor of trying out Giscus, a commenting system powered by GitHub discussions. Since most of the people I&amp;rsquo;ve run into on the nerdiverse(fediverse) who might read this website probably use Github, why not try to use a free comment system based on it. It also includes reactions which are cool to see for feedback.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve decided to remove webmentions from this website, in favor of trying out &lt;a href=&#34;https://giscus.app/&#34;   target=&#34;_blank&#34;&gt;
+    Giscus&lt;/a&gt;, a commenting system powered by GitHub discussions. Since most of the people I&amp;rsquo;ve run into on the nerdiverse(fediverse) who might read this website probably use Github, why not try to use a free comment system based on it. It also includes reactions which are cool to see for feedback.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve removed tinylitics since I tend not to ever glance at the data, just the kudos (which would be replaced by the Giscus reactions).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll see how I like it for a while since it&amp;rsquo;s free and looks pretty cool!&lt;/p&gt;
 &lt;p&gt;Next step would be for me to add a &amp;ldquo;reply on Mastodon&amp;rdquo; button, in case folks don&amp;rsquo;t have a GitHub profile to comment and want to.&lt;/p&gt;
