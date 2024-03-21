@@ -23,6 +23,7 @@ links = [
     { twitch = "https://www.twitch.tv/BinaryDigit/" },
     { star = "https://binarydigit.stream/" },
     { mastodon = "https://social.lol/@BinaryDigit/" },
+    { github = "https://github.com/BinaryDigitCode/" },
     { music = "https://hearthis.at/binarydigitdj/" },
     { peertube = "https://makertube.net/a/binarydigit/" },
     { prami = "https://binarydigit.omg.lol/" },
