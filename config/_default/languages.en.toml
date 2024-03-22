@@ -15,11 +15,11 @@ copyright = '<script src="https://status.lol/binarydigit.js?time&link&no-emoji">
 
 [author]
 name = "BinaryDigit"
-image = "img/AvatarByAndyCarolan1.png"
+image = "img/BinaryDigit-Photo.jpg"
 headline = "My digital home for hobbies and notes"
 bio = "My digital home for hobbies and notes"
 links = [
-    { microdotblog = "https://blog.binarydigit.cafe" },
+    { microdotblog = "https://blog.binarydigit.cafe/" },
     { twitch = "https://www.twitch.tv/BinaryDigit/" },
     { star = "https://binarydigit.stream/" },
     { mastodon = "https://social.lol/@BinaryDigit/" },

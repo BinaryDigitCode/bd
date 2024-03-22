@@ -18,23 +18,22 @@ I’m doing a digital overhaul for the next few months and would like to make th
 
 This site is created with [Hugo](https://gohugo.io/) with [Blowfish](https://blowfish.page/) theme.
 
-It's hosted on [Neocities](https://neocities.org/site/binarydigit) and deployed via Github Actions.
+The noAI button below is created by the talented [Andy Carolan](https://www.andycarolan.com/).
 
-My avatar (and the noAI button below) are created by the talented [Andy Carolan](https://www.andycarolan.com/).
-
-Analytics and kudos are via [Tinylitics](https://tinylytics.app/) by the talented [Vincent Ritter](https://vincentritter.com/).
+Reactions and comments are powered by [Giscus](https://giscus.app/)
 
 Contact form is powered by [Letterbird](https://letterbird.co/).
 
-Feature images are created by BinaryDigit and [Canva Pro](https://canva.com/) and/or photos via [Unsplash](https://unsplash.com).
+Feature images are created by BinaryDigit and [Canva Pro](https://canva.com/).
 
 Header logos are created by [Flaticon](https://www.flaticon.com/).
 
-Current Webrings: [CS JOY](https://cs.sjoy.lol/) & [Tinylitics](https://tinylytics.app/).
+Current Webring: [CS JOY](https://cs.sjoy.lol/).
+
+Get yourself a fun webpage, Mastodon account, status log, weblog, email forwarding and more with my [OMG.lol referral](https://home.omg.lol/referred-by/binarydigit)!
 
 <div class="flex items-center text-center">
 <a href="https://ko-fi.com/andycarolan"><img src="NoAi_03.png" alt="Made by a Human graphic by Andy Carolan" width="auto"></a>&nbsp;
-<a href="https://neocities.org/site/binarydigit"><img src="neocities.png" alt="Hosted on Neocities" width="auto"></a>&nbsp;
 <a href="https://ko-fi.com/binarydigit/"><img src="ko-fi.png" alt="Support me on Ko-fi" width="80"></a>
 </div>
 
