@@ -36,14 +36,14 @@ showScrollToTop = false
 
 [homepage]
 layout = "background"                                               # valid options: page, profile, hero, card, background, customs"
-homepageImage = "img/geometric-shapes-background-freepik.jpg"   # used in: hero, and card
+homepageImage = "img/geometric-shapes-freepik.jpg"   # used in: hero, and card
 showRecent = true
 showRecentItems = 3
 showMoreLink = true
 showMoreLinkDest = "/notes"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = true                                   # only used when layout equals background
+layoutBackgroundBlur = true      # only used when layout equals background
 
 [article]
 showDate = false
