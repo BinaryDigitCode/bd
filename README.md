@@ -2,7 +2,10 @@
 
 My personal website/digital cafe
 
-Powered by [Hugo](https://gohugo.io) with the [Blowfish](https://blowfish.page) theme and now hosted on [Neocities](https://neocities.org)
-
+Powered by [Hugo](https://gohugo.io) with the [Blowfish](https://blowfish.page) theme
 
 ![screenshot](/assets/img/screenshot.png)
+
+
+Changelog Notes:
+- changed author image in layouts/partials/home/background.html
